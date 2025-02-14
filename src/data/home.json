@@ -1,0 +1,188 @@
+{"metaData": {
+    "title": "Ouverture de mur porteur en France | Mur-Mur",
+    "description": "Vous recherchez des experts en ouverture de mur porteur en France ? Mur-Mur est là pour vous accompagner dans votre projet."
+  },
+  "slider": {
+    "title": "MUR-MUR",
+    "desc": "Maîtres des murs porteurs en France",
+    "img": "background"
+  },
+  "services": [
+    {
+      "title": " Modification des murs porteurs ",
+      "img": "home/modification-de-mur-porteur",
+      "desc": "Vous souhaitez agrandir une pièce ou créer une disposition différente pour votre espace ? Nous sommes là pour vous aider. Notre équipe d'experts peut vous conseiller sur les meilleures solutions pour modifier les murs porteurs tout en maintenant l'intégrité structurelle de votre bâtiment."
+    },
+    {
+      "title": "Expertise et conseils ",
+      "img": "home/expertise-et-conseils",
+      "desc": "Nous offrons des services d'expertise pour évaluer l'état de vos murs porteurs, identifier les problèmes potentiels et recommander les mesures à prendre. Que vous soyez un propriétaire, un architecte ou un entrepreneur, nous pouvons vous fournir des conseils professionnels pour vos projets de construction et de rénovation."
+    },
+    {
+      "title": "Renforcement des murs porteurs",
+      "img": "home/renforcement-de-mur-porteur",
+      "desc": "Nous sommes spécialisés dans le renforcement des murs porteurs pour assurer la solidité et la stabilité de votre structure.Notre équipe utilise des techniques avancées et des matériaux de qualité pour garantir des résultats durables."
+    },
+    {
+      "title": "Démolition et reconstruction des murs porteurs ",
+      "img": "home/demolution-et-reconstruction",
+      "desc": "Si vous envisagez de réorganiser l'espace de votre bâtiment ou de créer de nouvelles ouvertures, notre équipe peut gérer la démolition et la reconstruction des murs porteurs de manière sûre et efficace, tout en respectant les normes de construction en vigueur."
+    }
+  ],
+  "contact": {
+    "desc": "Pour discuter de votre projet de travaux de murs porteurs et obtenir une estimation gratuite, n’hésitez pas à nous contacter dès aujourd’hui.Notre équipe se fera un plaisir de répondre à toutes vos questions et de vous accompagner dans la concrétisation de votre projet.Nous sommes impatients de travailler avec vous chez Mes Murs, votre expert de confiance pour tous vos besoins en travaux de murs porteurs.",
+    "img": "home/contact",
+    "title": "Mur Porteur à Ouvrir ? Faites Confiance à Mur-Mur"
+  },
+  "intro": {
+    "title": "Experts en ouverture de mur porteur en France | Mur-Mur",
+    "desc1": "Plongez dans l’art de la transformation architecturale avec Mur Mur, votre partenaire privilégié dans le domaine de l’ouverture de mur porteur, présent partout en France. Notre réputation repose sur une expertise inégalée et un dévouement sans compromis envers l’excellence. Avec une expérience solide ancrés dans le secteur de la construction, nous sommes fiers d’être des pionniers dans la proposition de solutions avant-gardistes pour répondre à vos besoins spécifiques en matière de modifications architecturales.",
+    "desc2": "Que votre projet soit d’agrandir votre espace de vie, de donner une nouvelle vie à votre maison ou de créer une disposition résolument moderne. À Paris, Marseille, Lyon, ou dans n’importe quelle ville de France, notre équipe d’experts qualifiés est prête à vous accompagner à chaque étape du processus. Chez Mur Mur, nous ne sommes pas simplement des constructeurs, nous sommes des créateurs d’espaces exceptionnels. Chaque ouverture de mur porteur est conçue comme une œuvre d’art, redéfinissant avec précision et passion l’environnement que vous habitez ou travaillez."
+  },
+  "expertise": {
+    "img": "home/expertise-et-professionnalisme",
+    "titleImg": "Expertise et Professionnalisme",
+    "title": "Pourquoi Opter pour Mur-Mur ? L’Art de l’Ouverture de Mur Porteur",
+    "intro": [
+      {
+        "subTitle": "Expertise et Professionnalisme",
+        "desc": "Nos experts possèdent une solide expérience dans le domaine des travaux de murs porteurs et sont régulièrement formés aux dernières techniques et normes de l’industrie."
+      },
+      {
+        "desc": "Nous mettons un point d’honneur à fournir des services de haute qualité, respectant les délais et les budgets convenus."
+      }
+    ]
+  },
+  "approche": {
+    "img": "home/approche-centree-sur-le-client",
+    "titleImg": "Approche Centrée sur le Client",
+    "title": "",
+    "intro": [
+      {
+        "subTitle": "Approche Centrée sur le Client",
+        "desc": "Chez Mes Murs, nous plaçons vos besoins au cœur de notre démarche. Nous écoutons attentivement vos attentes, discutons de vos idées et vous guidons tout au long du processus pour vous offrir des résultats qui dépassent vos espérances."
+      }
+    ]
+  },
+  "qualite": {
+    "img": "home/qualite-des-materiaux-et-des-finitions",
+    "titleImg": "Qualité des Matériaux et des Finitions",
+    "title": "",
+    "intro": [
+      {
+        "subTitle": "Qualité des Matériaux et des Finitions",
+        "desc": "Nous utilisons uniquement des matériaux de première qualité et nous veillons à ce que chaque détail de nos travaux soit réalisé avec une grande précision."
+      },
+      {
+        "desc": "Votre satisfaction est notre priorité absolue, et nous nous engageons à livrer un résultat final impeccable."
+      }
+    ]
+  },
+  "avis": [
+        {
+          "title": "Restaurateurs de Charme Historique et de Confort Moderne",
+          "desc": "Notre maison ancienne était chargée d’histoire, mais elle avait besoin d’une restauration méticuleuse pour préserver son charme d’origine. Mur-Mur a été notre choix naturel. Leur équipe de restauration a préservé chaque détail architectural tout en modernisant les systèmes. Le résultat a été une maison qui respire à nouveau.",
+          "descPlus": " l’histoire, avec tout le confort moderne. Mur-Mur a démontré un profond respect pour notre patrimoine, et leur expertise en restauration a été essentielle pour préserver notre héritage.",
+          "name": "Édouard Favino"
+        },
+        {
+          "title": "Transformation Magistrale de Notre Sous-Sol en Suite Parentale",
+          "desc": "Nous avions une grande maison, mais une partie de l’espace était sous-utilisée. Nous avons contacté Mur-Mur pour transformer notre sous-sol en une suite parentale. Leur équipe a conçu et réalisé cette transformation avec maestria, créant une chambre élégante, une salle de bains somptueuse, et même un dressing. ",
+          "descPlus": "Ce projet a libéré le potentiel inexploité de notre maison, et nous sommes reconnaissants à Mur-Mur pour leur expertise en maximisation de l’espace.",
+          "name": "Kev Loren"
+        },
+        {
+          "title": "Transformateurs d'Intérieurs, Créateurs d'Élégance",
+          "desc": "Notre vieille maison avait besoin d’un rafraîchissement intérieur complet, et nous avons fait appel à Mur-Mur pour réaliser cette transformation. Leur équipe d’experts a repensé chaque espace avec créativité et esthétique. Le résultat a été une métamorphose incroyable : des espaces de vie élégants et modernes qui ont complètement changé notre quotidien.",
+    
+          "descPlus": " Mur-Mur a fait preuve d’un goût esthétique exceptionnel, et leur expertise en rénovation intérieure a été la clé de notre satisfaction.",
+          "name": "Jean Giannini"
+        },
+        {
+          "title": "Transformateurs d'Espaces sous les Combles",
+          "desc": "Notre maison avait un grenier inexploité que nous rêvions de transformer en une pièce fonctionnelle. Pour ce faire, nous avons sollicité l’expertise de Mur-Mur pour ouvrir une trémie et ajouter un escalier. Leur équipe a réalisé cette transformation avec brio, créant un espace élégant et pratique sous les combles.",
+          "descPlus": "Grâce à Mur-Mur, notre maison a gagné une nouvelle pièce qui a considérablement amélioré notre espace de vie. Leur compétence en rénovation et en création de trémies d’escalier a été essentielle pour concrétiser notre projet.",
+    
+          "name": "Marion Lollobrigida"
+        },
+    
+        {
+          "title": "Révolutionner Notre Salon de Coiffure avec Style et Efficacité",
+          "desc": "Nous nous sommes tournés vers Mur-Mur car notre salon de coiffure nécessitait une rénovation majeure pour le rendre moderne et fonctionnel. Leur équipe a créé une magnifique mezzanine qui a doublé notre espace de travail, offrant un environnement élégant pour nos clients. Grâce à Mur-Mur, notre salon est devenu un espace moderne et accueillant,",
+          "descPlus": " optimisé pour notre activité. Leur expertise en rénovation et en mezzanines a été essentielle pour notre succès.",
+          "name": "Laurent Favreau"
+        },
+        {
+          "title": "Mur-Mur : Rénovation Élégante",
+          "desc": "Nous avions décidé de rénover notre maison pour lui donner une nouvelle vie, mais nous savions que le choix des matériaux et le sens du design étaient essentiels pour créer l’atmosphère que nous recherchions. C’est alors que nous avons fait appel à Mur-Mur, dont la réputation en matière de rénovation esthétique était excellente. Leur équipe d’experts nous a guidés avec un sens aigu du design et du bon goût.",
+          "descPlus": " Ils ont su choisir les matériaux et les couleurs qui correspondaient parfaitement à notre vision, créant ainsi un espace élégant et harmonieux. Chaque détail, des revêtements de sol aux choix de couleurs, a été soigneusement pensé pour créer un résultat final spectaculaire. Grâce à Mur-Mur, notre maison a été transformée en une œuvre d’art vivante. Leur sens esthétique a fait toute la différence dans notre projet de rénovation.",
+          "name": "Mathieu Dujardin"
+        },
+        {
+          "title": "Sécurité Restaurée grâce à Mur-Mur",
+          "desc": "J’ai récemment fait appel à Mur-Mur pour une question liée à notre maison. Nous étions confrontés à un problème de plancher affaissé qui devenait de plus en plus préoccupant. Après avoir sollicité leur expertise, nous avons été rapidement rassurés. L’équipe Mur-Mur a identifié la source du problème avec une grande précision et a effectué les réparations nécessaires de manière efficace.",
+          "descPlus": " L’intervention de Mur-Mur a été remarquable, témoignant de leur expertise exceptionnelle dans la résolution de problèmes de plancher, et nous sommes extrêmement satisfaits du résultat final.",
+          "name": "Thomas Giannopoulos"
+        },
+        {
+          "title": "Mur-Mur : Des Experts en Gestion de Murs Porteurs pour une Transformation Lumineuse et Sûre de Votre Maison",
+          "desc": "Nous avions pour ambition de repenser l’aménagement de notre maison en supprimant un mur porteur pour créer un espace plus ouvert et lumineux. C’est alors que nous avons fait appel à l’expertise inestimable de Mur-Mur.  ",
+          "descPlus": " Leur équipe de spécialistes s’est rapidement mobilisée pour notre projet, procédant à une évaluation minutieuse des contraintes structurelles et des défis à relever. Dotés d’une précision et d’un professionnalisme exemplaires, ils ont réussi à mener à bien la suppression du mur porteur, déployant un espace ouvert qui a largement dépassé nos attentes. Mur-Mur a brillé par leur compétence exceptionnelle dans la gestion des murs porteurs, transformant notre maison tout en garantissant sa sécurité",
+          "name": "Alexandre Perrault"
+        },
+        {
+          "title": "Mur-Mur : Experts en Gestion de Murs Porteurs pour Transformer Votre Espace en Toute Sécurité",
+          "desc": "Nous avions le désir d’agrandir une pièce en cassant un mur porteur dans notre maison, mais cela soulevait des préoccupations en termes de sécurité et de faisabilité. C’est à ce moment-là que nous avons décidé de solliciter l’expertise de Mur-Mur. Leur équipe de spécialistes a rapidement pris en charge notre projet, évaluant attentivement les contraintes structurelles et les enjeux.",
+          "descPlus": "Grâce à leur précision et à leur professionnalisme, ils ont pu mener à bien le projet, créant un espace agrandi et ouvert qui dépassait nos attentes. Mur-Mur a fait preuve d’une compétence exceptionnelle dans la gestion des murs porteurs, transformant notre espace de vie tout en garantissant la sécurité de notre maison. Nous les recommandons chaudement pour leur savoir-faire extraordinaire",
+          "name": "Alexandre Perrault"
+        },
+        {
+          "title": "Mur-Mur : Des Experts en Résolution de Problèmes de Plancher qui Réalisent Vos Projets en Toute Sécurité",
+          "desc": "Nous avions le projet d’ouvrir une trémie pour un escalier dans notre maison, mais une inquiétude majeure est survenue : un problème de plancher affaissé dans le salon. Cette situation mettait en danger la sécurité de notre famille. ",
+          "descPlus": "C’est alors que nous avons décidé de faire appel à l’expertise de Mur-Mur pour résoudre le problème. Leur équipe d’experts a réagi rapidement, identifiant la source du problème de plancher et procédant aux réparations nécessaires avec une précision impressionnante. En conséquence, non seulement nous avons obtenu un plancher solide et sécurisé, mais nous avons également pu concrétiser notre projet d’ouverture de trémie pour l’escalier. Mur-Mur a fait preuve d’une expertise exceptionnelle dans la résolution des problèmes de plancher, ce qui a rendu notre projet de trémie d’escalier possible et réussi. Nous les recommandons vivement pour leurs compétences remarquables",
+          "name": "Clara Moreau"
+        },
+        {
+          "title": "Mur-Mur : Des Experts en Résolution de Problèmes de Plancher qui Priorisent la Sécurité Familiale!",
+          "desc": "Notre maison avait un problème de plancher affaissé dans le salon, ce qui nous inquiétait pour la sécurité de notre famille. Nous avons fait appel à Mur-Mur pour résoudre ce problème. ",
+          "descPlus": " Leur équipe d’experts a rapidement identifié la cause et a effectué les réparations nécessaires avec précision. Le résultat ? Un plancher solide et une maison sécurisée. Mur-Mur a démontré une expertise remarquable dans la résolution de problèmes de plancher, et nous les recommandons vivement",
+          "name": "Emmanuelle Blanc"
+        },
+        {
+          "title": "Mur-Mur : Notre Sauveur en Matière de Sécurité pour Notre Maison Moderne",
+          "desc": "Notre maison moderne avait été construite récemment, mais nous avons rapidement remarqué un problème sérieux : un affaissement inquiétant du sol dans notre salle de séjour. C’était une situation préoccupante, car cela affectait la sécurité de notre famille. Après des recherches approfondies, nous avons décidé de faire appel à Mur-Mur en raison de leur réputation en matière de résolution de problèmes structurels. Leur équipe d’experts a agi rapidement, procédant à une évaluation approfondie de la situation.",
+          "descPlus": " Ce qui nous a impressionnés, c’est leur professionnalisme et leur engagement envers la sécurité. Ils ont identifié la source du problème d’affaissement et ont élaboré un plan de réparation solide. Leur équipe a travaillé avec précision pour corriger le problème, en veillant à ce que la structure de notre maison reste solide et sûre. À la fin du projet, non seulement ils ont résolu l’affaissement, mais ils ont également renforcé notre maison moderne pour éviter tout problème futur. Grâce à Mur-Mur, notre salle de séjour est redevenue sécuritaire et élégante. Leur expertise dans la résolution de problèmes d’affaissement a été essentielle pour notre tranquillité d’esprit, et nous les recommandons chaudement pour leur service exceptionnel",
+          "name": "Margaux Thierry"
+        },
+        {
+          "title": "Mur-Mur : La Clé de la Sécurité et de la Croissance de Notre Entreprise",
+          "desc": "Notre petite entreprise avait besoin d’un nouvel espace de bureau, mais le bâtiment que nous avions acquis nécessitait une rénovation majeure. L’un des problèmes majeurs était le manque de stabilité de certains murs porteurs. Nous étions inquiets quant à la sécurité de nos employés et à la faisabilité de notre projet. C’est alors que nous avons contacté Mur-Mur,",
+          "descPlus": " dont la réputation était excellente. Leur équipe d’experts a rapidement pris en charge le projet. Ils ont analysé la situation, élaboré un plan de renforcement solide et ont commencé les travaux. Ce qui nous a le plus impressionnés, c’est leur efficacité. En un temps record, ils ont renforcé les murs porteurs de manière à ce que notre bâtiment soit sûr et conforme aux normes. Grâce à Mur-Mur, notre entreprise a pu poursuivre sa croissance dans un environnement sûr et professionnel. Leur compétence dans le renforcement des murs porteurs a été la clé de notre réussite, et nous sommes extrêmement reconnaissants pour leur service exceptionnel",
+          "name": "Isabelle Martin"
+        },
+        {
+          "title": "Mur-Mur : Réaliser notre Rêve de Mezzanine en Toute Sécurité",
+          "desc": "Nous avions toujours rêvé d’avoir une mezzanine dans notre loft, mais nous ne savions pas comment concrétiser cette idée. C’est là que Mur-Mur est intervenu, et ils ont fait des merveilles pour transformer notre rêve en réalité. Leur équipe d’experts en structures mur porteur a conçu et construit une mezzanine spectaculaire dans notre espace. Non seulement elle est esthétiquement magnifique, mais elle est également solide et sécurisée. ",
+          "descPlus": " Leur attention aux détails et leur souci de la sécurité nous ont impressionnés à chaque étape du projet. Grâce à Mur-Mur, notre loft est devenu un espace à plusieurs niveaux, offrant à notre famille un endroit confortable pour se détendre et se divertir. Leur expertise en mezzanines a vraiment transformé notre espace de vie, et nous sommes extrêmement satisfaits",
+          "name": "Hugo Lacroix"
+        },
+        {
+          "title": "Une Transformation Exceptionnelle grâce à Mur-Mur : Sécurité et Sérénité pour nos Parents",
+          "desc": "La maison que mes parents ont héritée présentait de graves problèmes structurels, avec des fissures dans les murs et un plancher affaissé, ce qui suscitait de vives préoccupations quant à leur sécurité et leur bien-être. Heureusement, nous avons eu la chance de croiser la route de Mur-Mur, une entreprise véritablement exceptionnelle.",
+          "descPlus": " Leur équipe a accompli un travail extraordinaire en réparant ces problèmes bien plus rapidement que prévu. La maison brille désormais d’une nouvelle splendeur, dépassant toutes nos attentes. Grâce à Mur-Mur, nous n’avons plus aucune inquiétude quant à la sécurité de nos parents. Leur expertise et leur dévouement ont redonné une vie nouvelle et sécurisée à notre maison, et nous sommes infiniment reconnaissants pour leur service impeccable.",
+          "name": "Mélanie Binoche"
+        },
+        {
+          "title": "Agrandir une pièce par l’ouverture d’un mur porteur dans un appartement",
+          "desc": "J’avais rencontré un problème avec mon appartement où j’avais plusieurs chambres, mais aucune d’entre elles ne pouvait accueillir un ensemble complet de mobilier de chambre à coucher. ",
+          "descPlus": "  J’avais même envisagé de le vendre jusqu’à ce que je découvre Mur-Mur. Leur équipe a été incroyablement attentive à l’égard de mon appartement, et leur solution consistant à agrandir une pièce en cassant un mur porteur a métamorphosé mon appartement en un tout nouvel espace de vie. »",
+          "name": "Alain Lambert"
+        },
+        {
+          "title": "Transformateurs d’Espaces de Vie pour une Famille en Croissance",
+          "desc": "Notre famille grandissait, et notre maison devenait trop petite. C’est alors que nous avons décidé d’agrandir notre espace de vie. Mur-Mur a conçu une extension qui a transformé notre maison. Ils ont créé un espace moderne et lumineux qui s’intégrait parfaitement au style de notre maison existante.",
+          "descPlus": " Ils ont créé un espace moderne et lumineux qui s’intégrait parfaitement au style de notre maison existante. Cette extension a ouvert de nouvelles possibilités pour notre famille et a amélioré considérablement notre qualité de vie. L’expertise de Mur-Mur en agrandissement de l’espace de vie a été la clé de ce succès.",
+          "name": "Laure Balasko"
+        }
+      ]
+}

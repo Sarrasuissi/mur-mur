@@ -1,0 +1,160 @@
+{
+  "metaData": {
+    "title": "Exécution et Gestion des Travaux en France | Mur-Mur",
+    "description": "Découvrez comment Mur-Mur optimise l'exécution et la gestion de vos projets de construction et rénovation en France. Expertise, qualité et respect des délais garantis pour réussir votre projet."
+  },
+  "slider": {
+    "desc": "Métamorphose Structurale",
+    "title": "Mur-Mur, Votre Expert en Étude de Mur Porteur",
+    "img": "slider-execution-et-gestion-des-travaux"
+  },
+  "intro": {
+    "title": "Exécution et Gestion des Travaux en France : Garantissez le Succès de Votre Projet avec Mur-Mur",
+    "subTitle": "Expertise en Exécution et Gestion des Travaux : Votre Projet Réalisé avec Succès",
+    "desc": "L’exécution et la gestion des travaux sont cruciales pour la réussite de vos projets de construction ou de rénovation en France. Chez Mur-Mur, nous offrons un accompagnement complet, de l’étude initiale à la supervision finale des artisans. Notre approche intégrée assure une réalisation fluide, le respect strict des délais et une qualité irréprochable."
+  },
+  "cardChoix": {
+    "title": "Pourquoi Choisir Mur-Mur pour l’Exécution et la Gestion de Vos Travaux en France ?",
+    "list": [
+      {
+        "subTitle": "Expertise Complète :",
+        "subDesc": " Expertise approfondie dans la gestion de projets de construction et de rénovation en France."
+      },
+      {
+        "subTitle": "Approche Intégrée :",
+        "subDesc": "Méthodologie couvrant toutes les phases du projet pour une exécution fluide."
+      },
+      {
+        "subTitle": "Suivi Rigoureux :",
+        "subDesc": "Surveillance minutieuse pour garantir qualité, conformité et respect des délais."
+      }
+    ]
+  },
+  "listOfCards": [
+    {
+      "cardOne": {
+        "img": "nos-expertises/images-fondations",
+        "titleImg": "Analyse Préliminaire : Garantir des Fondations Robustes pour Votre Projet",
+        "title": "Analyse Préliminaire : Garantir des Fondations Robustes pour Votre Projet",
+        "desc": "Avant le début des travaux, nous effectuons une analyse détaillée du clos et couvert pour garantir la solidité et la sécurité de votre construction. Cette étape comprend :",
+        "list": [
+          {
+            "title": "Évaluation des Structures : ",
+            "desc": "Vérification de la conformité des murs, toitures et ouvertures aux normes françaises."
+          },
+          {
+            "title": "Analyse des Risques Climatiques : ",
+            "desc": "Identification des impacts climatiques potentiels pour adopter des mesures préventives appropriées."
+          },
+          {
+            "title": "Préparation des Plans d’Intervention :",
+            "desc": "Élaboration de plans précis pour les travaux de clôture et de couverture, avec spécifications techniques."
+          }
+        ]
+      },
+      "cardTitle": { "title": "Étude Clos et Couvert : Assurez une Construction Solide en France" }
+    },
+    {
+      "cardOne": {
+        "img": "nos-expertises/creation-calendrier",
+        "titleImg": "Création d’un Calendrier Précis pour une Exécution Efficace",
+        "title": "Création d’un Calendrier Précis pour une Exécution Efficace",
+        "desc": "Nous développons un calendrier détaillé pour les travaux de clôture et de couverture, en coordonnant les différentes équipes. Cette phase inclut :",
+        "list": [
+          {
+            "title": "Définition des Étapes Clés :  ",
+            "desc": "Planification des interventions pour les murs, toitures, fenêtres et portes."
+          },
+          {
+            "title": "Coordination des Fournisseurs :  ",
+            "desc": "Sélection et gestion des fournisseurs pour assurer la qualité des matériaux."
+          }
+        ]
+      },
+      "cardTitle": { "title": "Planification et Coordination : Optimisez l’Organisation de Vos Travaux en France" }
+    },
+    {
+      "cardOne": {
+        "img": "nos-expertises/supervision-totale",
+        "titleImg": "Supervision Totale pour une Réalisation Conforme aux Normes",
+        "title": "Supervision Totale pour une Réalisation Conforme aux Normes",
+        "desc": "Nous supervisons l’ensemble du processus de construction pour garantir une exécution conforme aux plans et aux standards de qualité. Cela inclut :",
+        "list": [
+          {
+            "title": "Planification Détaillée du Projet :",
+            "desc": " Création d’un plan de projet avec objectifs clairs et délais précis."
+          },
+          {
+            "title": "Coordination des Équipes :",
+            "desc": "Organisation des différents corps de métier pour éviter les retards."
+          },
+          {
+            "title": "Gestion des Ressources : ",
+            "desc": "Suivi des matériaux et équipements pour assurer leur conformité et disponibilité."
+          }
+        ]
+      },
+      "cardTitle": { "title": "Gestion de Projet Travaux : Optimisation du Processus de Construction en France" }
+    },
+    {
+      "cardOne": {
+        "img": "nos-expertises/mise-en-place",
+        "titleImg": "Mise en Place de Procédures de Contrôle Qualité Rigoureuses",
+        "title": "Mise en Place de Procédures de Contrôle Qualité Rigoureuses",
+        "desc": "Nous mettons en œuvre des procédures strictes pour garantir la qualité des travaux :",
+        "list": [
+          {
+            "title": "Inspections Régulières : ",
+            "desc": " Réalisation d’inspections pour vérifier l’avancement et la qualité des réalisations."
+          },
+          {
+            "title": "Validation des Conformités :",
+            "desc": "Assurance que tous les aspects du projet respectent les normes de sécurité et les spécifications."
+          }
+        ]
+      },
+      "cardTitle": { "title": "Contrôle de Qualité : Assurez des Travaux Impeccables" }
+    },
+    {
+      "cardOne": {
+        "img": "nos-expertises/image-selection",
+        "titleImg": "Sélection et Coordination des Artisans Qualifiés",
+        "title": "Sélection et Coordination des Artisans Qualifiés",
+        "desc": "Nous choisissons des artisans expérimentés pour chaque phase du projet, en garantissant :",
+        "list": [
+          {
+            "title": "Choix des Spécialistes : ",
+            "desc": "Sélection basée sur l’expertise et la réputation des artisans."
+          },
+          {
+            "title": "Supervision des Travaux : ",
+            "desc": "Suivi quotidien pour assurer la conformité des techniques et des matériaux."
+          }
+        ]
+      },
+      "cardTitle": { "title": "Suivi des Artisans : Assurez une Exécution Conforme et Efficace en France" }
+    },
+    {
+      "cardOne": {
+        "img": "nos-expertises/communication-et-reporting",
+        "titleImg": "Communication et Reporting Transparent",
+        "title": "Communication et Reporting Transparent",
+        "desc": "Maintien d’une communication claire avec les artisans et vous, le client :",
+        "list": [
+          {
+            "title": "Rapports d’Avancement : ",
+            "desc": "Fourniture de rapports détaillés sur l’état d’avancement des travaux."
+          },
+          {
+            "title": "Réunions de Suivi : ",
+            "desc": "Organisation de réunions régulières pour discuter des progrès et des ajustements nécessaires."
+          }
+        ]
+      }
+    }
+  ],
+  "cardContact": {
+    "title": "Contactez Mur-Mur pour une Gestion Professionnelle de Vos Travaux en France",
+    "desc": "Choisissez Mur-Mur pour une gestion complète et professionnelle de vos travaux en France, assurant ainsi la réussite de vos projets de construction ou de rénovation. Contactez-nous dès aujourd’hui pour discuter de vos besoins et découvrir comment nous pouvons vous aider à atteindre vos objectifs avec succès."
+  }
+}

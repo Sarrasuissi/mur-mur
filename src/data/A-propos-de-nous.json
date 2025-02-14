@@ -1,0 +1,48 @@
+{"metaData": {
+    "title": "Entreprise d'ouverture de mur porteur en France | Mur-Mur",
+    "description": "Mur-Mur est une entreprise spécialisée dans l'ouverture de mur porteur en France. Transformez votre espace avec notre équipe qualifiée."
+  },
+  "slider": {
+    "title": "MUR-MUR",
+    "desc": "Quand Précision, Rencontre Qualité",
+    "img": "a-propos-de-nous"
+  },
+  "intro": {
+    "title": "Entreprise spécialisée dans l’ouverture de mur porteur et le renforcement de structures en France | Mur-Mur",
+    "desc": "Découvrez Mur-Mur, une entreprise spécialisée en ouverture de mur porteur et renforcement de structures en France. Nous sommes votre partenaire de confiance pour tous vos besoins en matière de construction et de rénovation. Avec notre expertise et notre engagement envers la qualité, nous garantissons des résultats fiables et durables."
+  },
+  "histoire": {
+    "title": "Notre histoire",
+    "desc": [
+      "<Strong>Chalamet Aldéric,</Strong> ingénieur des structures murales porteuses, passionné par la création d’espaces sécuritaires et résilients. Fort d’une solide formation, il avait passé plus de dix ans dans le monde de la construction et de la rénovation, où il avait vu des bâtiments naître et se transformer. Cependant, au plus profond de lui, il savait qu’il y avait quelque chose de plus grand à réaliser.",
+      "Ce génie des structures avait été influencé par des expériences personnelles uniques qui avaient laissé une empreinte indélébile sur sa vision du monde de l’architecture. Enfant, il avait eu la chance de voyager en Chine avec ses parents à plusieurs reprises. Ces voyages avaient été une véritable révélation, une immersion précoce dans l’univers de l’architecture chinoise ancienne, des techniques de construction innovantes et de la profonde culture du bâtiment. Ces expériences avaient éveillé en lui une fascination durable pour la création d’espaces uniques et fonctionnels.",
+      "Chaque voyage en Chine avait été une source d’inspiration inestimable. Il avait été captivé par la façon dont la culture et l’histoire se reflétaient dans l’architecture de chaque région, créant des bâtiments qui racontaient des histoires uniques. Ces expériences avaient renforcé son engagement envers le génie des structures, l’incitant à consacrer sa carrière à créer des espaces qui transcendaient la simple utilité et qui évoquaient une véritable connexion avec leur environnement et leur histoire.",
+      "En 2012, il décida de jeter les bases de <Strong>Mur-Mur</Strong> avec une mission résolue en tête. Son équipe dévouée partageait cette passion et s’efforçait sans relâche d’innover, repoussant les limites de la créativité en génie des structures pour façonner des espaces qui racontaient une histoire unique pour chaque client. Leur entreprise était le fruit de ces inspirations, de ces voyages, et de l’engagement collectif envers l’art de la construction.",
+      "Ils croyaient fermement que chaque projet était une opportunité de créer quelque chose de remarquable, de durable et d’inoubliable. Ainsi, <Strong>Mur-Mur</Strong> s’engageait à continuer d’incarner cette vision inspirée par les voyages en Chine, en offrant des solutions architecturales exceptionnelles qui reflétaient la beauté, l’histoire et la culture de chaque lieu où ils intervenaient. Leur mission était d’aller au-delà des simples murs et structures, en créant des espaces qui transcendaient l’ordinaire pour devenir des œuvres d’art vivantes, des espaces qui respiraient, racontaient des histoires et suscitaient des émotions."
+    ]
+  },
+  "service": [
+    {
+      "icon": "nos-services.png",
+      "iconHover": "nos-services.png",
+      "title": "Nos services",
+      "desc": "Nous mettons à votre disposition une équipe d’experts en travaux de structures pour étudier la faisabilité de vos projets et déterminer les solutions les plus adaptées pour leur réalisation. Nous proposons également des prestations d’assistance à la maîtrise d’ouvrage et de suivi de chantier pour garantir la qualité des travaux."
+    },
+    {
+      "icon": "notre-expertise-en-travaux-de-structures.png",
+      "iconHover": "notre-expertise-en-travaux-de-structures.png",
+      "title": "Notre expertise en travaux de structures",
+      "desc": "Nous avons acquis une solide expérience dans l’étude de mur porteur grâce à notre collaboration avec des professionnels de la construction. Nous utilisons des outils de pointe pour réaliser des calculs précis et garantir la sécurité de vos bâtiments."
+    },
+    {
+      "icon": "nos-engagements.png",
+      "iconHover": "nos-engagements.png",
+      "title": "Nos engagements",
+      "desc": "Chez MUR-MUR, nous sommes engagés à fournir à nos clients des prestations de qualité. Nous nous engageons à respecter les délais et les normes en vigueur dans le domaine de la construction. Nous vous accompagnons tout au long de votre projet, de l’étude de faisabilité jusqu’à la réception des travaux."
+    }
+  ],
+  "cardContact": {
+    "title": "Contactez-nous pour tous vos besoins en ouverture de mur porteur en France",
+    "desc": "Faites confiance à Mur-Mur pour réaliser vos projets de construction et de rénovation en toute sérénité. Contactez-nous dès maintenant pour bénéficier de notre expertise en structure mur porteur en Île-de-France et toute la France."
+  }
+}

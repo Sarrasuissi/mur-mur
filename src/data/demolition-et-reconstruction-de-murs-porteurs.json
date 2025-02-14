@@ -1,0 +1,87 @@
+{
+  "metaData": {
+    "title": "Démolition et Reconstruction de murs porteurs | Mur-Mur",
+    "description": "Découvrez nos services pour la démolition et la reconstruction de murs porteurs. Mur-Mur vous offre des solutions adaptées à vos besoins."
+  },
+  "slider": {
+    "desc": "Mur-Mur Votre Vision Élevée",
+    "title": "Démolition Calculée, Reconstruction Sublimée",
+    "img": "demolition-et-reconstruction-de-murs-porteurs"
+  },
+  "intro": {
+    "title": "Démolition et Reconstruction de Murs Porteurs : Votre Solution pour des Projets d’envergure",
+    "desc": "Nous sommes fiers de vous offrir une solution complète et professionnelle pour tous vos besoins en matière de démolition et de reconstruction de murs porteurs. Avec notre expertise solide dans le domaine de la construction et une équipe d’experts qualifiés, nous sommes dédiés à donner vie à vos projets de rénovation et de construction de manière sûre et efficace."
+  },
+  "intro2": {
+    "title": "Nos Services de Démolition de Murs Porteurs",
+    "desc": "La démolition de murs porteurs est une tâche délicate et complexe qui nécessite une approche méthodique et précise. Chez Mur-Mur, nous possédons l’expérience et l’équipement nécessaires pour réaliser des démolitions en toute sécurité, en minimisant les perturbations sur le reste de la structure du bâtiment. Nos services de démolition comprennent"
+  },
+  "service": [
+    {
+      "icon": "evaluation-professionnelle.webp",
+      "iconHover": "evaluation-professionnelle.webp",
+      "title": "Évaluation professionnelle",
+      "desc": "Avant de commencer tout projet, nos experts évalueront la structure existante pour déterminer la faisabilité de la démolition et établiront un plan détaillé."
+    },
+    {
+      "icon": "demolition-controle.webp",
+      "iconHover": "demolition-controle.webp",
+      "title": "Démolition Contrôlée",
+      "desc": "Nous utilisons des techniques de démolition contrôlée pour éviter tout dommage aux structures environnantes et garantir un environnement de travail sûr pour nos équipes et les occupants du bâtiment."
+    },
+    {
+      "icon": "gestion-des-dechets.webp",
+      "iconHover": "gestion-des-dechets.webp",
+      "title": "Gestion des Déchets",
+      "desc": "Après la démolition, nous veillerons à la gestion responsable des déchets, en les évacuant conformément aux réglementations en vigueur."
+    }
+  ],
+  "reconstruction": {
+    "img": "nos-solutions/nos-services-de-reconstruction",
+    "titleImg": "Nos Services de Reconstruction",
+    "title": "Nos Services de Reconstruction",
+    "desc": "Après une démolition réussie, notre équipe se concentrera sur la reconstruction pour créer l’espace que vous désirez. Notre objectif est de fournir des résultats de haute qualité qui répondent à vos attentes. Nos services de reconstruction comprennent"
+  },
+  "icons": [
+    {
+      "icon": "icones-murmur.webp",
+      "iconHover": "icones-murmur.webp",
+      "title": "Conception sur Mesure",
+      "desc": "Nous travaillerons en étroite collaboration avec vous pour concevoir un plan de reconstruction personnalisé, en tenant compte de vos besoins, préférences et contraintes budgétaires."
+    },
+    {
+      "icon": "expertise-technique.webp",
+      "iconHover": "expertise-technique.webp",
+      "title": "Expertise Technique",
+      "desc": "Nos experts en construction possèdent une connaissance approfondie des techniques de construction modernes et des matériaux de haute qualité pour garantir une reconstruction solide et durable."
+    },
+    {
+      "icon": "respect-des-normes.webp",
+      "iconHover": "respect-des-normes.webp",
+      "title": "Respect des Normes",
+      "desc": "Nous nous engageons à respecter toutes les réglementations et normes en vigueur dans le secteur de la construction, garantissant ainsi un projet conforme et sécurisé."
+    }
+  ],
+  "title": "Pourquoi Choisir Mur-Mur ?",
+  "cardFleche": [
+    {
+      "title": "Expérience et Expertise",
+      "desc": "Avec des années d’expérience dans le domaine de la construction et de la rénovation, notre équipe est composée d’experts qualifiés qui maîtrisent les défis liés à la démolition et à la reconstruction de murs porteurs."
+    },
+    {
+      "title": "Qualité et Engagement",
+      "desc": "Chez Mur-Mur, nous mettons l’accent sur la qualité de nos services et nous nous engageons à livrer des résultats exceptionnels qui dépassent vos attentes."
+    },
+    {
+      "title": "Satisfaction du Client",
+      "desc": "La satisfaction de nos clients est notre priorité absolue. Nous sommes fiers de nos relations durables avec nos clients et des références positives que nous avons obtenues grâce à notre travail acharné."
+    },
+    {
+      "title": "Approche Personnalisée",
+      "desc": "Chaque projet est unique, c’est pourquoi nous adoptons une approche personnalisée pour répondre à vos besoins spécifiques et réaliser votre vision."
+    }
+  ],
+  "titleContact":"Commencez Votre Projet avec Mur-Mur Aujourd’hui !",
+  "desc1":"Si vous envisagez une démolition et une reconstruction de murs porteurs, faites confiance à l’expertise de Mur-Mur pour réaliser votre projet en toute confiance. Contactez-nous dès aujourd’hui pour discuter de votre projet, obtenir un devis personnalisé et commencer à transformer votre espace dès maintenant.",
+  "desc2":"Chez Mur-Mur, nous construisons plus que des murs, nous construisons des relations durables !"
+}

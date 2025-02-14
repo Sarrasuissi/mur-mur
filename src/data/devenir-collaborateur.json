@@ -1,0 +1,47 @@
+{"metaData": {
+    "title": "Devenir collaborateur des Travaux de Murs Porteurs | Mur-Mur",
+    "description": "Rejoignez notre équipe et devenez collaborateur pour notre entreprise Mur-Mur, spécialiste des Travaux de Murs Porteurs en France."
+  },
+  "slider": {
+    "title": "MUR-MUR",
+    "desc": "Mur Mur, Votre Expert en Étude de Mur Porteur",
+    "img": "etude-de-mur-porteur"
+  },
+  "intro": {
+    "title": "Devenir collaborateur indépendant chez Mur-Mur : Epanouissez votre carrière dans les travaux de murs porteurs",
+    "desc": "Devenez Collaborateur Indépendant en rejoignant Mur-Mur, une marque innovante dans le domaine des travaux de murs porteurs en France ! Forts de notre expertise dans la construction, la rénovation et la gestion de projets, nous comptons plusieurs agences à travers le pays."
+  },
+  "soutien": {
+    "title": "Un Soutien Expert",
+    "desc": "Nous mettons à votre disposition toutes les ressources nécessaires pour que votre parcours soit couronné de succès. Vous bénéficierez d’une formation initiale complète au siège social de Mur-Mur, où vous acquerrez les compétences commerciales essentielles, découvrirez notre gamme de services, et maîtriserez les bases pour réussir dans vos missions. Mais cela ne s’arrête pas là !  Lors du lancement de votre activité, un responsable d’agence de votre secteur vous accompagnera pour vous guider dans votre rôle.",
+    "img": "rejoignez-nous/soutien-expert",
+    "icon": "expert"
+  },
+  "reseau": {
+    "title": "Un Réseau Dynamique",
+    "desc": "Rejoindre Mur-Mur signifie intégrer une enseigne dynamique tout en profitant de la force d’un réseau ! Vous aurez l’occasion de participer à des rencontres enrichissantes et conviviales au sein de notre réseau. Chaque année, nous organisons des séminaires nationaux qui rassemblent tous les acteurs de l’enseigne pour échanger et partager sur les projets à venir. De plus, nous proposons des formations continues chaque année pour favoriser votre développement professionnel.",
+    "img": "rejoignez-nous/soutien-expert",
+    "icon": "reseau-dynamique"
+  },
+  "mission": {
+    "img": "rejoignez-nous/missions-variees",
+    "title": "Des Missions Variées pour Satisfaire nos Clients",
+    "desc": "En tant que collaborateur indépendant, vous serez responsable d’une multitude de projets de travaux de murs porteurs, de rénovation, de renforcement, et bien plus encore, allant des chantiers de petite envergure aux projets d’envergure majeure. Votre mission principale sera de superviser l’ensemble des opérations en cours, en offrant des solutions sur mesure pour répondre aux besoins de nos clients, tout en respectant les normes et les délais."
+  },
+  "rejoignez": {
+    "img": "rejoignez-nous/rejoignez-mur-mur",
+    "titleImg": "Rejoignez Mur-Mur",
+    "title": "Rejoignez Mur-Mur !",
+    "desc": "En tant que collaborateur indépendant, vous aurez l’opportunité de contribuer au développement de notre agence locale en accompagnant vos clients dans leurs projets de travaux de murs porteurs, de rénovation, de renforcement, et bien plus encore. Votre mission consistera à répondre à leurs besoins en leur proposant des solutions adaptées, tout en supervisant chaque projet jusqu’à sa réussite."
+  },
+  "decouvrez": {
+    "img": "rejoignez-nous/decouvrez-nos-opportunites",
+    "titleImg": "Découvrez Nos Opportunités",
+    "title": "Découvrez Nos Opportunités",
+    "desc": "Mur-Mur est en constante expansion et recrute activement des collaborateurs indépendants partout en France. Si vous avez le désir de prendre en main votre carrière et de vivre une nouvelle aventure professionnelle, rejoignez notre réseau ! Exprimez votre passion et devenez un Collaborateur Indépendant."
+  },
+  "cardContact": {
+    "title": "Joignez-vous à Mur-Mur : Devenir un Acteur des Travaux de Murs Porteurs",
+    "desc": "Transformez votre carrière en rejoignant Mur-Mur, une opportunité de faire partie d’un réseau solide, bien organisé, et déterminé. Devenez collaborateur indépendant et contribuez à notre succès continu dans le domaine des travaux de murs porteurs !"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metaData": {
+    "title": "Étude de renforcement des planchers | Mur-Mur",
+    "description": "Découvrez notre expertise en étude de renforcement des planchers. Des solutions personnalisées pour renforcer la stabilité de vos planchers."
+  },
+  "slider": {
+    "title": "Votre Plancher, Notre Passion",
+    "desc": "Mur-Mur en Action",
+    "img": "slider-etude"
+  },
+  "intro": {
+    "title": "Étude de renforcement de plancher pour une meilleure stabilité des murs",
+    "desc": "Les murs porteurs jouent un rôle essentiel dans la stabilité de votre maison. Cependant, si votre plancher est faible ou endommagé, cela peut affecter la solidité de vos murs porteurs et mettre en danger l’intégrité structurelle de votre maison. C’est pourquoi, il est important de réaliser une étude de renforcement de plancher pour une meilleure stabilité des murs."
+  },
+  "inspectionCard": {
+    "title": "Inspection des Planchers : Sécurité Domestique Primordiale",
+    "desc": "La première étape consiste à inspecter les planchers pour déterminer la cause de l’affaissement. Les raisons peuvent être multiples, allant d’un manque de support structurel à une surcharge excessive. Les professionnels pourront également vérifier si les planchers ont été construits avec les bonnes normes et matériaux.",
+    "img": "nos-expertises/inspection-image",
+    "icon": "double-carre"
+  },
+  "renforcementPorteur": {
+    "img": "nos-expertises/image-renforcement",
+    "title": "Renforcement des Murs Porteurs : Stabilité Assurée",
+    "desc": "Le renforcement des murs porteurs est la prochaine étape pour garantir la stabilité de votre maison. Cette étape nécessite une évaluation approfondie de la structure du bâtiment pour déterminer les zones qui nécessitent un renforcement. Les professionnels peuvent recommander plusieurs techniques de renforcement des murs porteurs, comme l’installation de poutres en acier ou la construction de murs en béton armé."
+  },
+  "renforcementPlanche": {
+    "img": "nos-expertises/image-planche",
+    "title": "Renforcement des planchers : Réduire la charge sur les planchers pour éviter les affaissements",
+    "desc": "Une fois que les murs porteurs ont été renforcés, la prochaine étape est de renforcer les planchers. Cette étape peut impliquer la pose de nouvelles poutres en acier ou en bois pour soutenir le poids du plancher. Les professionnels peuvent également recommander l’utilisation de matériaux de construction plus légers pour réduire le poids sur les planchers."
+  },
+  "collaborationCard": {
+    "title": "Collaboration avec les Entrepreneurs : Clé d’un Renforcement Réussi",
+    "desc": "La dernière étape consiste à mettre en œuvre les recommandations des professionnels pour renforcer les murs porteurs et les planchers. Cette étape nécessite souvent des travaux de construction, tels que l’installation de nouvelles poutres ou la construction de murs en béton armé. Les professionnels travaillent en étroite collaboration avec les entrepreneurs pour s'assurer que tous les travaux sont effectués conformément aux normes de construction en vigueur.En résumé, une étude de renforcement de plancher avec les murs est indispensable pour garantir la sécurité et la stabilité de votre maison. Les professionnels peuvent évaluer les zones à problèmes, recommander des solutions de renforcement et travailler en étroite collaboration avec les entrepreneurs pour garantir que les travaux sont effectués en toute sécurité. En fin de compte, vous pouvez être sûr que votre maison est solide et sûre pour vous et votre famille.",
+    "img": "nos-expertises/test-image"
+   
+  }
+}

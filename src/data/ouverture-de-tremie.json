@@ -1,0 +1,173 @@
+{
+  "metaData": {
+    "title": "Expert en Ouverture de Murs Porteurs et Semi-Porteurs en France |Mur-Mur",
+    "description": "Transformez votre espace avec Mur-Mur, expert en ouverture de murs porteurs ou semi-porteurs en France. Agrandissez, améliorez la luminosité ou retirez une cheminée en toute sécurité et avec expertise."
+  },
+
+  "slider": {
+    "desc": "Métamorphose Structurale",
+    "title": "Mur-Mur, Votre Expert en Étude de Mur Porteur",
+    "img": "slider-ouverture-de-tremie"
+  },
+  "intro": {
+    "title": "Mur-Mur : Expert en ouverture de murs porteurs ou semi-porteurs en France",
+
+    "desc": "L’ouverture de murs porteurs ou semi-porteurs est une opération délicate et stratégique nécessitant une planification rigoureuse et une expertise approfondie. Chez Mur-Mur, nous vous offrons une expertise unique pour la transformation de votre espace en ouvrant des murs porteurs ou semi-porteurs. Que vous souhaitiez agrandir une pièce, améliorer la luminosité ou retirer une cheminée, notre équipe d’experts en France est prête à vous accompagner à chaque étape de votre projet. Nous garantissons une exécution sécurisée, conforme aux normes les plus strictes et adaptée à vos besoins spécifiques."
+  },
+  "cardChoix": {
+   
+    "list": [
+      {
+        "subTitle": "Expertise Technique :",
+        "subDesc": "Notre équipe bénéficie d’une expérience approfondie dans l’ouverture de murs porteurs et semi-porteurs, garantissant une exécution conforme aux normes les plus rigoureuses de sécurité et de qualité."
+      },
+      {
+        "subTitle": "Solutions Personnalisées :",
+        "subDesc": "Nous développons des solutions sur mesure, adaptées à vos objectifs spécifiques, que ce soit pour casser un mur, agrandir une ouverture ou démolir une cheminée."
+      },
+      {
+        "subTitle": "Gestion Complète :",
+        "subDesc": "Nous supervisons l’ensemble du projet, depuis l’étude préliminaire jusqu’à la mise en œuvre, tout en assurant un suivi minutieux et une communication transparente à chaque étape."
+      }
+    ]
+  },
+  "listOfCards": [
+    {
+      "cardOne": {
+        "img": "nos-solutions/choix-ouvrir-mur",
+        "titleImg": "Bénéficiez d’une Transformation Optimale",
+       
+        "list": [
+          {
+            "title": "1. Agrandir l’Espace :",
+            "desc": "L’ouverture d’un mur crée un espace plus vaste et fluide, optimisant la circulation et la fonctionnalité des zones de vie."
+          },
+          {
+            "title": "2. Améliorer la Luminosité :",
+            "desc": "Agrandir les ouvertures permet d’augmenter l’entrée de lumière naturelle, transformant ainsi votre intérieur en un lieu lumineux et accueillant."
+          },
+          {
+            "title": "3. Jumeler Deux Espaces :",
+            "desc": "L’ouverture d’un mur fusionne des espaces distincts, créant une grande pièce polyvalente adaptable à vos besoins."
+          }
+        ]
+      },
+      "cardTitle": {
+        "title": "Pourquoi Choisir d’Ouvrir un Mur ? Bénéficiez d’une Transformation Optimale"
+      }
+    },
+    {
+      "cardOne": {
+        "img": "nos-solutions/demolition-et-agrandissement",
+        "titleImg": "Démolition et Agrandissement : Techniques et Précautions Essentielles",
+        "title": "1. Techniques de Démolition : Approche Sécurisée pour Murs Porteurs",
+        "desc": "La démolition d’un mur porteur ou semi-porteur requiert une approche méticuleuse pour éviter des dommages structurels irréversibles. Voici comment nous procédons :",
+        "list": [
+          {
+            "title": "Étude Préalable : ",
+            "desc": " Nous réalisons une analyse technique complète pour évaluer le rôle structurel du mur et les charges qu’il supporte. Cette évaluation nous permet d’identifier les risques liés à la démolition."
+          },
+          {
+            "title": "Planification :",
+            "desc": " Nous élaborons un plan de démolition détaillé, intégrant des techniques et des outils adaptés à chaque type de matériau (pierre meulière, maçonnerie, béton, bois, moellon, métal), garantissant ainsi une exécution en toute sécurité."
+          },  {
+            "title": "Exécution : ",
+            "desc": "Grâce à du matériel de pointe, nous assurons une démolition contrôlée. Nous utilisons des techniques avancées telles que le sciage, le découpage au diamant, et les perceuses à percussion en fonction des matériaux."
+          }
+        ]
+      },
+      "cardTitle": {
+        "title": "Démolition et Agrandissement : Techniques et Précautions Essentielles"
+      }
+    },
+    {
+      "cardOne": {
+        "img": "nos-solutions/precautions-securite",
+        "titleImg": "Précautions de Sécurité : Assurez la Protection et la Stabilité",
+        "title": "2. Précautions de Sécurité : Assurez la Protection et la Stabilité",
+        "desc":"Des mesures rigoureuses de sécurité sont mises en place pour protéger les personnes et les structures environnantes :",
+       
+        "list": [
+          {
+            "title": "Équipements de Protection : ",
+            "desc": " Tous nos intervenants portent des équipements de protection individuelle (EPI) adaptés aux situations de travail."
+          },
+          {
+            "title": "Renforcement Temporaire :",
+            "desc": "Nous installons des structures de soutien temporaires pour garantir la stabilité du bâtiment pendant toute la durée du chantier."
+          }
+        ]
+      }
+    },
+    {
+      "cardOne": {
+        "img": "nos-solutions/agrandissement-d-ouverture",
+        "titleImg": "Agrandissement d’Ouverture : Solutions Techniques pour Tous Types de Murs",
+     
+        "list": [
+          {
+            "title": "Murs Semi-Porteurs : ",
+            "desc": " Supportant une partie de la charge, leur agrandissement demande un renforcement adéquat pour maintenir la stabilité."
+          },
+          {
+            "title": "Murs Porteurs : ",
+            "desc": "Leur intervention implique l’installation de poutres ou de structures en acier pour redistribuer les charges de manière efficace."
+          },   {
+            "title": "Murs de Refend et Murs de Façade :",
+            "desc": "Ces murs doivent être modifiés avec précision pour garantir leur intégrité tout en améliorant l’esthétique et la luminosité de l’espace."
+          }
+        ]
+      },
+      "cardTitle": {
+        "title": "Agrandissement d’Ouverture : Solutions Techniques pour Tous Types de Murs"
+      }
+    },
+    {
+      "cardOne": {
+        "img": "nos-solutions/methode-d-agrandissement",
+        "titleImg": "Méthodes d’Agrandissement : Techniques Avancées pour Chaque Matériau",
+        "list": [
+          {
+            "title": "Sciage de Béton : ",
+            "desc": "Pour les murs en béton, des scies à diamant garantissent des ouvertures nettes et précises."
+          },
+          {
+            "title": "Découpe de Maçonnerie : ",
+            "desc": "Pour les murs en pierre ou en brique, nous utilisons des meuleuses et des outils de découpe spécialisés."
+          },
+          {
+            "title":"Pose de Poutres en Acier : ",
+            "desc":"Nous installons des poutres en acier pour supporter la structure après agrandissement de l’ouverture."
+          }
+        ]
+      },
+      "cardTitle": {
+        "title": "Agrandissement d’Ouverture : Solutions Techniques pour Tous Types de Murs"
+      }
+    },
+    {
+      "cardOne": {
+        "img": "nos-solutions/demolition-de-cheminee",
+        "titleImg": "Démolition de Cheminée : Procédures Spécialisées et Sécurisées",
+    
+        "list": [
+          {
+            "title": "Analyse Technique :",
+            "desc": "Nous vérifions l’intégrité de la cheminée et son impact sur la structure avant toute intervention."
+          },
+          {
+            "title": "Démolition Contrôlée : ",
+            "desc": "Nous utilisons des techniques spécialisées pour retirer la cheminée de manière sécurisée, tout en préservant les structures environnantes. Les débris sont enlevés avec soin, et les matériaux recyclés autant que possible."
+          }
+        ]
+      },
+      "cardTitle": {
+        "title": "Démolition de Cheminée : Procédures Spécialisées et Sécurisées"
+      }
+    }
+  ],
+  "cardContact": {
+    "title": "Contactez-Nous pour un Projet d’Ouverture de Mur Porteur ou Semi-Porteurs en France",
+    "desc": "En choisissant Mur-Mur, vous optez pour une approche sécurisée et professionnelle pour transformer votre espace de vie. Contactez-nous dès aujourd’hui pour discuter de votre projet et découvrir comment nous pouvons vous aider à réaliser vos ambitions de rénovation ou de construction."
+  }
+}

@@ -1,0 +1,24 @@
+.headerClass {
+  .itemOne {
+    &:hover {
+      .itemTwo {
+        display: block !important;
+      }
+    }
+  }
+  .mur {
+    .borderStyle {
+      transition: height 0.4s ease-in-out;
+    }
+
+    &:hover {
+      .list {
+        display: block;
+      }
+      .borderStyle {
+        background-color: orange;
+        height: 30px;
+      }
+    }
+  }
+}

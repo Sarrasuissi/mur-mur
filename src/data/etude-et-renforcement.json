@@ -1,0 +1,155 @@
+{"metaData": {
+    "title": "Étude de Renforcement des Murs Porteurs - Mur-Mur | Expertise en Construction et Sécurité",
+    "description": "Découvrez l'expertise de Mur-Mur dans l'étude et le renforcement des murs porteurs en France. Assurez la sécurité et la stabilité de votre bâtiment avec nos solutions techniques avancées."
+  },
+
+  "slider": {
+    "desc": "Métamorphose Structurale",
+    "title": "Mur-Mur, Votre Expert en Étude de Mur Porteur",
+    "img": "slider-etude-et-renforcement"
+  },
+  "intro": {
+    "title": "Étude et Renforcement des Murs Porteurs : Garantir la Sécurité et la Stabilité de Votre Bâtiment | Mur-Mur",
+    "desc": "La solidité des murs porteurs est cruciale pour l’intégrité structurelle de tout bâtiment. Lorsqu’ils montrent des signes d’affaiblissement, une étude technique approfondie est essentielle pour leur renforcement. Chez Mur-Mur, nous offrons une expertise complète pour l’étude et le renforcement des murs porteurs, garantissant une approche technique rigoureuse et des solutions adaptées."
+  },
+  "cardChoix": {
+    "title": "Pourquoi Choisir Mur-Mur pour Votre Projet ?",
+    "list": [
+      {
+        "subTitle": "Expertise Technique : ",
+        "subDesc": "Nos ingénieurs et architectes spécialisés garantissent des solutions de renforcement conformes aux normes."
+      },
+      {
+        "subTitle": "Approche Personnalisée : ",
+        "subDesc": "Services sur mesure adaptés aux besoins spécifiques de chaque projet."
+      },
+      {
+        "subTitle": "Qualité et Fiabilité :",
+        "subDesc": " Interventions rigoureuses avec un suivi attentif pour assurer la durabilité et la sécurité de votre bâtiment."
+      }
+    ]
+  },
+  "listOfCards":[
+    {
+         "img": "nos-expertises/image-inspection-murs",
+    "titleImg": "Inspection Complète des Murs Porteurs",
+    "title": "Inspection Complète des Murs Porteurs",
+    "desc": "Nous commençons par une inspection approfondie pour détecter les défauts tels que fissures, déformations et dégradations. Nous utilisons des techniques avancées comme :",
+    "list": [
+      {
+        "title": "Photographie Infra-Rouge : ",
+        "desc": "Détection des variations de température révélant des problèmes internes."
+      },
+      {
+        "title": "Essai de Rebond :",
+        "desc": "Évaluation de la résistance du béton ou de la maçonnerie."
+      },
+      {
+        "title": "Ultrason : ",
+        "desc": "Vérification de l’intégrité des matériaux et détection des anomalies internes."
+      }
+    ]
+    },  
+     {
+      "img": "nos-expertises/image-analysee",
+      "titleImg": "Analyse Architecturale et Structurelle",
+      "title": "Analyse Architecturale et Structurelle",
+      "desc": "Une analyse détaillée permet de comprendre l’impact des murs porteurs :",
+      "list": [
+        {
+          "title": "Calculs de Charges : ",
+          "desc": "Estimation des charges verticales et horizontales pour assurer la capacité portante des murs."
+        },
+        {
+          "title": "Étude des Plans Architecturaux : ",
+          "desc": "Vérification des plans pour identifier les interactions et les points faibles."
+        },
+        {
+          "title": "Modélisation 3D :",
+          "desc": " Simulation du comportement des murs sous différentes charges avec des logiciels spécialisés."
+        }
+      ]
+    }, 
+      {
+      "img": "nos-expertises/image-evaluation-besoins",
+      "titleImg": "Évaluation des Besoins en Renforcement",
+      "title": "Évaluation des Besoins en Renforcement",
+      "desc": "Sur la base des analyses, nous déterminons les besoins en renforcement avec des techniques telles que :",
+      "list": [
+        {
+          "title": "Installation de Poutres en Acier : ",
+          "desc": "Augmente la capacité portante et redistribue les charges."
+        },
+        {
+          "title": "Application de Renforts en Béton Armé : ",
+          "desc": "Renforce les murs avec du béton et de l’armature."
+        },
+        {
+          "title": "Ajout de Contreventements :",
+          "desc": "Améliore la stabilité et la résistance aux forces latérales."
+        }
+      ]
+    }, 
+      {
+      "img": "nos-expertises/image-solutions",
+      "titleImg": "Mise en Œuvre des Solutions de Renforcement",
+      "title": "Mise en Œuvre des Solutions de Renforcement",
+      "desc": "La mise en œuvre inclut :",
+      "list": [
+        {
+          "title": "Préparation des Zones de Renforcement : ",
+          "desc": "Nettoyage et préparation des surfaces des murs."
+        },
+        {
+          "title": "Installation des Renforts :",
+          "desc": "Mise en place de poutres, béton armé ou contreventements selon les recommandations."
+        },
+        {
+          "title": "Contrôle de Qualité et Tests :",
+          "desc": "Vérification de l’efficacité des renforts par des tests de charge."
+        }
+      ]
+    }, 
+      {
+      "img": "nos-expertises/image-suivi-post",
+      "titleImg": "Suivi Post-Intervention et Documentation",
+      "title": "Suivi Post-Intervention et Documentation",
+      "desc": "Après les interventions, nous assurons un suivi pour vérifier la stabilité :",
+      "list": [
+        {
+          "title": "Surveillance Longitudinale :",
+          "desc": "Mise en place d’un système de surveillance pour détecter toute variation dans la stabilité des murs."
+        },
+        {
+          "title": "Rapports et Certifications :",
+          "desc": " Fourniture de rapports détaillés et certificats de conformité aux normes de construction."
+        }
+      ]
+    },
+       {
+      "img": "nos-expertises/image-preparation-documentation",
+      "titleImg": "Préparation des Documents Techniques",
+      "title": "Préparation des Documents Techniques",
+      "desc": "Nous compilons une documentation complète incluant :",
+      "list": [
+        {
+          "title": "Rapports Techniques :",
+          "desc": "Détails sur les interventions et les résultats des tests."
+        },
+        {
+          "title": "Certificats de Conformité : ",
+          "desc": "Attestations de respect des normes de sécurité et des règlements en vigueur."
+        },
+        {
+          "title": "Contrôle de Qualité et Tests :",
+          "desc": "Vérification de l’efficacité des renforts par des tests de charge."
+        }
+      ]
+    }
+  ],
+
+  "cardContact": {
+    "title": "Contactez-nous pour votre Étude et Renforcement des murs porteurs en France",
+    "desc": "En choisissant Mur-Mur, vous bénéficiez d’une expertise complète pour le renforcement de vos murs porteurs, assurant la sécurité et la stabilité de votre construction. Contactez-nous dès aujourd’hui pour une évaluation personnalisée et découvrez les meilleures solutions pour votre projet de construction ou de rénovation."
+  }
+}

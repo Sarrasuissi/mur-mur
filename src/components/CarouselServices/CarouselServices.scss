@@ -1,0 +1,17 @@
+.slick-next,
+.slick-next:hover {
+  background-image: url(./../../../public/assets/icons/fleche-right.webp);
+  background-repeat: no-repeat;
+  height: 50px;
+}
+
+.slick-prev,
+.slick-prev:hover {
+  background-image: url(./../../../public/assets/icons/fleche-left.webp);
+  background-repeat: no-repeat;
+  height: 50px;
+}
+.slick-prev::before,
+.slick-next::before {
+  display: none;
+}

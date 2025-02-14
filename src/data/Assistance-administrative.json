@@ -1,0 +1,73 @@
+{
+  "metaData": {
+    "title": "Assistance Administrative pour Projets de Construction | Mur-Mur",
+    "description": "Mur-Mur offre une assistance administrative spécialisée pour la gestion des Assemblées Générales et l'obtention des visas de conformité. Optimisez vos projets de construction et de rénovation avec notre expertise. Contactez-nous dès aujourd'hui !"
+  },
+  "slider": {
+    "desc": " Votre Expert en Étude de Mur Porteur",
+    "title": "Métamorphose Structurale",
+    "img": "slider-assistance-administrative"
+  },
+  "intro": {
+    "title": "Assistance Administrative pour Projets de Construction et de Rénovation en France | Mur-Mur",
+    "subTitle": "Optimisez la Gestion Administrative de Vos Projets avec Mur-Mur",
+    "desc": "Chez Mur-Mur, nous savons que la gestion administrative est cruciale pour le succès de vos projets de construction et de rénovation. Notre équipe d’experts vous propose une assistance administrative complète, incluant la gestion des Assemblées Générales (AG) et l’obtention des visas de conformité. Nous simplifions les démarches administratives pour que vous puissiez vous concentrer sur la réalisation de votre projet avec sérénité."
+  },
+  "firstCard": {
+    "img": "nos-expertises/image-accomapgnement",
+    "titleImg": "Accompagnement lors des Assemblées Générales (AG)",
+    "title": "Accompagnement lors des Assemblées Générales (AG)",
+    "desc": "Les Assemblées Générales sont des étapes déterminantes dans la prise de décisions importantes. Nous vous offrons un soutien complet pour garantir leur bon déroulement :",
+    "list": [
+      {
+        "title": "Préparation et Planification : ",
+        "desc": "Élaboration d’un ordre du jour détaillé, organisation des documents nécessaires et gestion logistique pour des réunions efficaces et bien organisées."
+      },
+      {
+        "title": "Rédaction et Validation des Procès-Verbaux : ",
+        "desc": "Rédaction précise et conforme des procès-verbaux, en respectant les exigences légales et statutaires."
+      },
+      {
+        "title": "Gestion des Questions Juridiques : ",
+        "desc": "Assistance spécialisée pour résoudre toutes les questions juridiques et réglementaires, assurant conformité et transparence."
+      }
+    ]
+  },
+  "secondCard": {
+    "img": "nos-expertises/image-visa",
+    "titleImg": "Obtention du Visa de Conformité",
+    "title": "Obtention du Visa de Conformité",
+    "desc": "Le visa de conformité est essentiel pour valider que vos travaux respectent les normes en vigueur. Nous vous guidons tout au long de ce processus :",
+    "list": [
+      {
+        "title": "Vérification des Normes :",
+        "desc": "Contrôle rigoureux pour garantir la conformité technique de votre projet avec les normes locales et nationales."
+      },
+      {
+        "title": "Préparation des Dossiers :",
+        "desc": "Constitution et soumission des dossiers nécessaires, comprenant documents techniques, rapports d’inspection et attestations."
+      },
+      {
+        "title": "Coordination avec les Autorités :",
+        "desc": "Facilitation des échanges avec les autorités locales pour accélérer l’obtention du visa de conformité."
+      },
+      {
+        "title": "Suivi et Support :",
+        "desc": "Suivi complet jusqu’à la réception du visa, avec intervention rapide pour répondre aux demandes supplémentaires ou modifications nécessaires."
+      }
+    ]
+  },
+  "cardChoix": {
+    "title": "Pourquoi Choisir Mur-Mur pour Votre Assistance Administrative ?",
+    "list": [
+      { "subTitle": "Expertise Spécialisée : ", "subDesc": "Une connaissance approfondie des procédures administratives et des exigences réglementaires dans le secteur de la construction et de la rénovation." },
+      { "subTitle": "Précision et Fiabilité :", "subDesc": "Gestion minutieuse et rigoureuse de vos démarches administratives pour minimiser les risques d’erreurs et de retards." },
+      { "subTitle": "Accompagnement Personnalisé : ", "subDesc": " Service sur mesure adapté aux spécificités de votre projet et à vos besoins uniques." }
+    ]
+  },
+
+  "cardContact": {
+    "title": "Contactez Mur-Mur pour une Assistance Administrative Efficace en France",
+    "desc": "Ne laissez pas les démarches administratives freiner la réalisation de vos projets. Avec Mur-Mur, bénéficiez d’une assistance complète pour vos projets de construction ou de rénovation partout en France. Contactez-nous dès aujourd’hui pour découvrir comment nous pouvons optimiser la gestion administrative de vos projets et vous garantir la conformité nécessaire."
+  }
+}

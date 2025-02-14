@@ -1,0 +1,72 @@
+{
+  "metaData": {
+    "title": "Renforcement des Murs Porteurs | Mur-Mur",
+    "description": "Découvrez nos solutions de renforcement des murs porteurs sûres et efficaces pour assurer la stabilité et la sécurité de votre maison."
+  },
+  "slider": {
+    "title": " MUR-MUR",
+    "desc": "Excèle dans le Renforcement et la Solidité",
+    "img": "nos-solutions-renovation-et-construction"
+  },
+  "intro": {
+    "title": "Renforcement des Murs Porteurs – Services de Rénovation et Construction de Mur-Mur",
+
+    "desc": "Mur-Mur, votre partenaire de confiance pour tous vos besoins en renforcement des murs porteurs. Avec une expérience solide dans le domaine de la construction et une équipe d’experts qualifiés, nous sommes dédiés à fournir des services de haute qualité pour vos projets de rénovation et de construction."
+  },
+  "title": "Nos services de renforcement des murs porteurs :",
+  "desc": "Chez Mur-Mur, nous comprenons l’importance cruciale des murs porteurs dans la stabilité et la solidité d’un bâtiment. Nos experts spécialisés dans le renforcement au niveau des murs porteurs sont équipés pour résoudre divers problèmes structurels et offrir des solutions adaptées à vos besoins spécifiques.",
+  "images": [
+    {
+      "img": "nos-solutions/evaluation-approfondie",
+      "titleImg": "Évaluation approfondie",
+      "title": "1. Évaluation approfondie",
+      "desc": "Avant de commencer tout projet de renfort de murs porteurs, nos professionnels effectuent une évaluation complète de la structure. Cela nous permet de comprendre l’état actuel des murs porteurs et de déterminer les meilleures approches de renforcement."
+    },
+    {
+      "img": "nos-solutions/techniques-de-renforcement-avancees",
+      "titleImg": "Techniques de renforcement avancées",
+      "title": "2. Techniques de renforcement avancées",
+      "desc": "Nous utilisons des techniques de renforcement de pointe, conformes aux normes de l’industrie, pour renforcer vos murs porteurs existants. Que ce soit par l’ajout de poutres métalliques, de renforts en béton armé ou d’autres méthodes, nous assurons une amélioration significative de la résistance de vos murs porteurs."
+    }
+  ],
+  "images2": [
+    {
+      "img": "nos-solutions/respect-des-normes-de-securite",
+      "titleImg": "Respect des normes de sécurité",
+      "title": "3. Respect des normes de sécurité",
+      "desc": "La sécurité est notre priorité absolue. Nos experts veillent à ce que chaque étape du processus visant à renforcer les murs porteurs soit réalisée avec la plus grande attention aux détails et dans le respect des normes de sécurité les plus strictes."
+    },
+    {
+      "img": "nos-solutions/projets-de-renovation",
+      "titleImg": "Projets de rénovation et de construction",
+      "title": "4. Projets de rénovation et de construction",
+      "desc": "Notre équipe qualifiée ne se contente pas de renforcer les murs porteurs, elle a également de l’expérience dans d’autres travaux de rénovation et de construction. Que vous ayez besoin d’une rénovation complète, d’une extension de bâtiment ou de tout autre projet, nous sommes là pour vous accompagner à chaque étape."
+    }
+  ],
+  "title2": "Pourquoi Choisir Mur-Mur pour vos Projets de Renforcement des Murs Porteurs ?",
+  "service": [
+    {
+      "icon": "expertise-professionnelle.webp",
+      "iconHover": "expertise-professionnelle.webp",
+      "title": "Expertise professionnelle",
+      "desc": "Nos années d’expérience dans le domaine de la construction et du renforcement des structures portantes garantissent des résultats fiables et durables."
+    },
+    {
+      "icon": "equipe-qualifiee.webp",
+      "iconHover": "equipe-qualifiee.webp",
+      "title": "Équipe qualifiée",
+      "desc": "Notre équipe d’experts qualifiés est hautement compétente dans la réalisation de projets complexes des murs porteurs."
+    },
+    {
+      "icon": "engagement-envers-la-qualite.webp",
+      "iconHover": "engagement-envers-la-qualite.webp",
+      "title": "Engagement envers la qualité",
+      "desc": "Nous sommes dédiés à fournir des services de la plus haute qualité et à assurer la satisfaction de nos clients à chaque étape du processus."
+    }
+  ],
+  "besoin": {
+    "title": "Besoin de Solutions de Renforcement des Murs Porteurs ? Contactez-nous !",
+    "desc": "Faites confiance à Mur-Mur pour tous vos besoins en renforcement de murs porteurs. Notre entreprise se démarque par son expertise, son professionnalisme et son engagement envers la qualité. Contactez-nous dès aujourd’hui pour discuter de votre projet de rénovation ou de construction et laissez-nous vous offrir des solutions sur mesure pour renforcer vos murs porteurs de manière fiable et efficace.",
+    "img": "nos-solutions/besoin-de-solutions"
+  }
+}

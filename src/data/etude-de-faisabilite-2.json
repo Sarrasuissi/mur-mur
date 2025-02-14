@@ -1,0 +1,114 @@
+{
+  "metaData": {
+    "title": "Étude de Faisabilité Technique et Financière - Mur-Mur | Expert en Construction en France",
+    "description": "Découvrez l'expertise de Mur-Mur en étude de faisabilité technique et financière pour vos projets de construction en France. Profitez d'une analyse complète pour garantir le succès de votre projet."
+  },
+  "slider": {
+    "desc": " Votre Expert en Étude de Mur Porteur",
+    "title": "Métamorphose Structurale",
+    "img": "slider-etude-de-faisabilite"
+  },
+  "intro": {
+    "title": "Étude de Faisabilité Technique et Financière pour Vos Projets de Construction en France| Mur-Mur",
+
+    "desc": "Chez Mur-Mur, nous savons que chaque projet de construction ou de rénovation en France présente des caractéristiques uniques. Pour vous aider à démarrer votre projet sur de bonnes bases, nous proposons une étude de faisabilité technique et financière complète. Notre mission est de vous offrir une analyse détaillée pour garantir le succès de votre projet, tant sur le plan technique que financier."
+  },
+  "firstCard": {
+    "img": "nos-expertises/image-analyse",
+    "titleImg": "Analyse Préliminaire pour une Vision Clair de Votre Projet",
+    "title": "Analyse Préliminaire pour une Vision Clair de Votre Projet",
+    "desc": "Nous débutons par une consultation approfondie pour comprendre vos besoins et vos objectifs spécifiques. Cette étape essentielle inclut :",
+    "list": [
+      {
+        "title": "Visite sur Site :",
+        "desc": "Évaluation des conditions actuelles pour recueillir des données cruciales."
+      },
+      {
+        "title": "Identification des Contraintes et Opportunités : ",
+        "desc": "Analyse des spécificités de votre projet pour déterminer les défis techniques et les opportunités à saisir."
+      }
+    ]
+  },
+  "secondCard": {
+    "img": "nos-expertises/image-etude-technique",
+    "titleImg": "Étude Technique : Garantir la Solidité et la Fiabilité de Votre Projet",
+    "title": "Étude Technique : Garantir la Solidité et la Fiabilité de Votre Projet",
+    "desc": "Nos experts réalisent une étude technique exhaustive pour assurer la viabilité de votre projet :",
+    "list": [
+      {
+        "title": "Évaluation des Structures Existantes : ",
+        "desc": "Inspection des murs porteurs et des structures adjacentes pour vérifier leur capacité à supporter des modifications."
+      },
+      {
+        "title": "Calculs de Charges : ",
+        "desc": "Analyse des charges et des contraintes pour respecter les normes de sécurité."
+      },
+      {
+        "title": "Sélection des Matériaux :",
+        "desc": "Choix des matériaux adaptés pour garantir durabilité et conformité aux normes."
+      }
+    ]
+  },
+  "fourdCard": {
+    "img": "nos-expertises/image-planification",
+    "titleImg": "Planification et Conseil : Assurez le Succès de Votre Projet avec Mur-Mur",
+    "title": "Planification et Conseil : Assurez le Succès de Votre Projet avec Mur-Mur",
+    "desc": "Nos experts vous accompagnent dans la planification et la mise en œuvre :",
+    "list": [
+      {
+        "title": "Options Techniques :",
+        "desc": "Propositions d’alternatives pour optimiser le projet."
+      },
+      {
+        "title": "Démarches Administratives : ",
+        "desc": "Assistance dans les démarches réglementaires et les demandes de permis."
+      },
+      {
+        "title": "Calendrier de Réalisation : ",
+        "desc": "Création d’un calendrier précis pour chaque phase du projet, garantissant le respect des délais."
+      }
+    ]
+  },
+  "thirdCard": {
+    "img": "nos-expertises/image-evaluation",
+    "titleImg": "Évaluation Financière : Optimisez Votre Budget et Votre Plan de Financement",
+    "title": "Évaluation Financière : Optimisez Votre Budget et Votre Plan de Financement",
+    "desc": "Nous procédons à une évaluation financière rigoureuse pour maîtriser les coûts :",
+    "list": [
+      {
+        "title": "Estimation des Coûts :",
+        "desc": "Calcul détaillé des coûts de main-d’œuvre, des matériaux, des équipements et des frais généraux."
+      },
+      {
+        "title": "Analyse des Risques Financiers :",
+        "desc": "Identification des risques potentiels avec des solutions pour les atténuer."
+      },
+      {
+        "title": "Plan de Financement :",
+        "desc": "Élaboration d’un plan de financement personnalisé avec des options de paiement adaptées."
+      }
+    ]
+  },
+  "cardChoix": {
+    "title": "Pourquoi Choisir Mur-Mur pour Votre Étude de Faisabilité ?",
+    "list": [
+      {
+        "subTitle": "Expertise et Savoir-Faire :",
+        "subDesc": "Plus de [nombre] années d’expérience dans la construction et la rénovation en France."
+      },
+      {
+        "subTitle": "Qualité et Fiabilité :",
+        "subDesc": "Engagement envers des résultats de haute qualité et durables."
+      },
+      {
+        "subTitle": "Transparence Totale :",
+        "subDesc": "Communication claire et rapports détaillés tout au long du projet."
+      }
+    ]
+  },
+
+  "cardContact": {
+    "title": "Contactez Mur-Mur pour une Étude de Faisabilité Personnalisée en France",
+    "desc": "Confiez votre projet à Mur-Mur pour une étude de faisabilité technique et financière complète. Contactez-nous dès aujourd’hui pour obtenir une évaluation personnalisée et garantir le succès de vos projets de construction ou de rénovation en France."
+  }
+}

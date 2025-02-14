@@ -1,0 +1,42 @@
+{
+  "metaData": {
+    "title": "Étude de mur porteur - Ouverture de mur porteur | Mur-Mur",
+    "description": "Maximisez l'espace de votre maison en toute sécurité avec l'expertise de Mur-Mur en étude et ouverture de mur porteur en France."
+  },
+  "slider": {
+    "title": "Votre Plancher, Notre Passion",
+    "desc": "Mur-Mur en Action",
+    "img": "slider-etude"
+  },
+  "intro": {
+    "title": "Étude de Mur Porteur: Baie et Gain de Place | Mur-Mur",
+    "desc": "Chez Mur-Mur , nous comprenons à quel point votre maison est précieuse. C’est pourquoi nous vous offrons des solutions sur mesure pour ouvrir vos espaces en toute sécurité et avec style. Notre expertise dans l’étude de mur porteur pour l’ouverture de baie et le gain de place fait de nous les leaders de l’industrie. Découvrez comment notre processus méticuleux garantit un résultat exceptionnel pour chaque projet."
+  },
+  "test": {
+    "img": "nos-expertises/etude-faisabilite",
+    "titleImg": "Étude de faisabilité, une étape indispensable",
+    "title": "Étude de faisabilité, une étape indispensable",
+    "desc": "Nous évaluons minutieusement la structure de votre mur porteur et analysons les possibilités d’ouverture tout en maintenant l’intégrité de votre bâtiment. Grâce à notre savoir-faire, nous sommes capables de proposer des solutions astucieuses pour maximiser l’espace disponible tout en respectant les normes de sécurité les plus strictes."
+  },
+  "secondCard": {
+    "img": "nos-expertises/image-preparation",
+    "titleImg": "Préparation du mur à ouvrir",
+    "title": "Préparation du mur à ouvrir",
+    "desc": "Notre équipe s’engage à préparer votre mur en utilisant des techniques de pointe et des outils spécialisés. Nous travaillons avec diligence pour minimiser les perturbations tout en assurant une protection totale de votre intérieur. Chez Mur-Mur, la satisfaction de nos clients est notre priorité, c’est pourquoi nous veillons à maintenir un environnement propre et organisé tout au long du processus."
+  },
+  "cardContact": {
+    "title": "Contactez-nous pour votre Étude de Mur Porteur",
+    "desc": "Contactez-nous dès aujourd’hui pour obtenir une consultation gratuite et personnalisée. Laissez notre équipe experte chez Mur-Mur vous guider à chaque étape du processus et réaliser votre rêve d’un espace de vie lumineux et spacieux"
+  },
+  "soutien": {
+    "title": "L’ouverture proprement dite",
+    "desc": "Grâce à notre expertise et à notre équipement de pointe, nous réalisons l’ouverture de votre mur porteur avec une précision chirurgicale. Notre équipe compétente est formée pour gérer chaque étape avec professionnalisme, vous offrant une expérience sans tracas.",
+    "img": "nos-expertises/image-ouverture-card",
+    "icon": "double-carre"
+  },
+  "mission": {
+    "img": "nos-expertises/image-card-pose",
+    "title": "La pose d’une poutre de soutènement",
+    "desc": "Notre équipe expérimentée installe avec précision une poutre de soutènement de qualité supérieure pour assurer une transition en douceur entre les espaces ouverts. La poutre est soigneusement choisie pour s’intégrer harmonieusement dans votre intérieur, ajoutant une touche de design moderne à l’ensemble de votre maison."
+  }
+}

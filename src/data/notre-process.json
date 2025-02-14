@@ -1,0 +1,78 @@
+{
+  "metaData": {
+    "title": "Notre process - Mur-Mur",
+    "description": ""
+  },
+  "title": "Création d’Ouverture dans la Charpente en France",
+
+  "desc": "Chez Mur-Mur, nous nous spécialisons dans la création d’ouvertures dans les charpentes en France. Nous offrons des solutions adaptées pour transformer votre espace de vie, que vous souhaitiez installer une fenêtre, ajouter un puits de lumière ou aménager des combles. Notre expertise assure un travail professionnel, sécurisé et conforme aux normes.",
+
+  "slider": {
+    "title": "Réalisez vos rêves de transformation d’espace avec Mur Mur, où chaque projet est traité avec expertise, sécurité et un accompagnement personnalisé.",
+    "imgTitle": "Réalisez vos rêves",
+    "img": "slider-notreprocess"
+  },
+  "title2": "Mur Mur : Réalisez vos Travaux de Rénovation et Démolition en France avec un Processus Simpliﬁé et Sécurisé",
+  "cardDesc": [
+    {
+      "title": "1. Consultation Gratuite : Un Premier Pas Facile vers Votre Projet",
+      "desc": "Dès la première étape, nous simplifions votre expérience avec une consultation gratuite et sans engagement. Prenez rendez-vous directement via notre site internet, choisissez un créneau horaire qui vous convient, et nous vous enverrons une confirmation rapide par email. Si vous préférez discuter de votre projet immédiatement, appelez-nous au 01 84 03 98 29. Notre équipe est disponible pour répondre à toutes vos questions, que vous envisagiez des travaux de démolition, de surélévation ou de création de baies."
+    },
+    {
+      "title": "2. Visite d’un Expert chez Vous : Une Évaluation Technique Personnalisée",
+      "desc": "Après la prise de contact, l’un de nos experts en structure se déplace chez vous pour réaliser une évaluation complète de votre projet. Cette étape est essentielle pour bien comprendre vos besoins spécifiques et pour évaluer la faisabilité technique de travaux tels que la démolition de murs porteurs, la transformation de vos espaces, ou encore l’aménagement de combles. Nos experts prennent en compte la nature de votre structure et les contraintes techniques pour garantir la sécurité et la viabilité des travaux envisagés."
+    },
+    {
+      "title": "3. Devis Détailé et Transparent : Une Proposition Adaptée à Vos Besoins",
+      "desc": "Une fois l’évaluation réalisée, vous recevrez un devis clair et détaillé dans votre boîte mail, comprenant toutes les informations relatives à votre projet. Notre transparence tarifaire est un de nos engagements forts : chaque étape est expliquée en détail, avec des recommandations sur les meilleures solutions techniques à adopter. Nous incluons des estimations précises, que ce soit pour des travaux de rénovation intérieure, de création de plancher, ou de modification structurelle."
+    },
+    {
+      "title": "4. Validation du Devis en un Clic : Avancez Rapidement sur Votre Projet",
+      "desc": "Une fois le devis accepté, validez-le facilement en ligne grâce à notre plateforme sécurisée. Cette procédure rapide vous permet de lancer le projet sans tracas administratifs supplémentaires. Nos conditions générales de vente sont claires et accessibles, pour que vous puissiez avancer en toute sérénité."
+    },
+    {
+      "title": "5. Un acompte simple pour démarrer",
+      "desc": "Pour activer votre projet, un acompte de 30 % est nécessaire. Vous pouvez régler ce montant via plusieurs moyens : carte bancaire, chèque ou virement. Cette flexibilité vous permet de gérer votre budget en toute tranquillité tout en démarrant rapidement la phase de planification."
+    },
+
+    {
+      "title": "6. Planification des Travaux : Votre Projet, Votre Emploi du Temps",
+      "desc": "Nous collaborons étroitement avec vous pour planifier les travaux à des dates qui vous conviennent. Grâce à notre calendrier en ligne, vous avez la possibilité de sélectionner les créneaux horaires qui s’adaptent à votre emploi du temps. Une fois les dates choisies, vous recevrez une confirmation par email. Ce processus participatif vous garantit une gestion des travaux fluide et parfaitement intégrée à votre planning personnel."
+    },
+    {
+      "title": "7. Réalisation des Travaux : Une Équipe Dédiée à la Réalisation de Votre Projet",
+      "desc": "Nos équipes d’experts en démolition, structure et rénovation sont prêtes à intervenir sur votre chantier selon le planning établi. Durant toute la durée des travaux, un responsable de projet dédié vous tiendra informé des avancées, et sera à votre disposition pour répondre à vos questions ou gérer tout imprévu. Que ce soit pour une ouverture de mur porteur, un agrandissement de pièce, ou une transformation complète d’appartement, nous assurons une supervision stricte pour garantir des travaux de haute qualité."
+    },
+    {
+      "title": "8. Livraison et Satisfaction Client : Une Réalisation à la Hauteur de Vos Attentes",
+      "desc": "Une fois les travaux terminés, nous vous invitons à inspecter le chantier avec notre responsable de projet pour valider que tout a été réalisé conformément à vos attentes. Nous sommes engagés à garantir votre satisfaction totale et recueillons vos retours afin de continuer à améliorer nos services. Chez Mur Mur, chaque projet est une opportunité de construire une relation de confiance et de réaliser les rêves de nos clients."
+    }
+  ],
+  "expertises": {
+    "img": "notre-process/expertises",
+    "titleImg": "expertises",
+    "title": "Pourquoi Choisir Mur Mur ?",
+    "listDesc": [
+      {
+        "subTitle": "• Expertise en démolition et rénovation :",
+        "desc": " Spécialistes en démolition de murs porteurs, surélévation, création de planchers et rénovation complète, nous allions expertise technique et respect des délais."
+      },
+      {
+        "subTitle": "• Accompagnement personnalisé :",
+        "desc": " Nous sommes à vos côtés à chaque étape, de la conception à la réalisation, pour garantir une gestion simplifiée et une communication fluide."
+      },
+      {
+        "subTitle": "• Sécurité et conformité :",
+        "desc": " Nos travaux respectent strictement les normes en vigueur (DTU, permis de construire) et sont couverts par des assurances professionnelles, assurant la sécurité de votre bien."
+      },
+      {
+        "subTitle": "• Processus rapide et transparent :",
+        "desc": " Notre processus en 8 étapes vous permet de suivre votre projet de manière claire, avec un accompagnement permanent par nos experts."
+      }
+    ]
+  },
+  "cardDevis": {
+    "title": "Mur Mur : Votre Partenaire de Confiance pour des Projets Réussis",
+    "desc": "Avec Mur Mur, vous bénéficiez d’un accompagnement personnalisé et professionnel pour chaque étape de votre projet de rénovation ou démolition. Notre mission est de simplifier vos travaux tout en garantissant qualité et efficacité. Que vous réaménagiez un espace ou envisagiez des transformations plus importantes, nous sommes à vos côtés pour concrétiser vos idées. Faites confiance à notre expertise et à notre savoir-faire pour des résultats à la hauteur de vos attentes. Contactez-nous dès aujourd’hui pour discuter de votre projet et découvrir comment nous pouvons le réaliser ensemble, rapidement et en toute sérénité."
+  }
+}

@@ -1,0 +1,45 @@
+.formulaire-postuler {
+  span {
+    color: #e04562 !important;
+  }
+
+  input,
+  textarea,
+  select {
+    background-color: #ededed;
+    width: 100% !important;
+    padding: 0.8rem;
+    transition: border-color 0.3s;
+    &:focus {
+      border-color: #e04562;
+    }
+  }
+
+  .inputFile {
+    margin: 15px 0;
+    position: relative;
+
+    input[type="file"] {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 10%;
+      height: 100%;
+      opacity: 0;
+      cursor: pointer;
+    }
+
+    .file-label {
+      background-color: #ff4c2e;
+      color: white;
+      width: fit-content;
+    }
+  }
+
+  label {
+    font-size: 14px;
+    color: #4d4d4d;
+    font-weight: bold;
+    margin: 15px 0px 8px 0px;
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "metaData": {
+    "title": "Création d’Ouverture dans la Charpente en France | Mur-Mur",
+    "description": "Transformez votre espace avec Mur-Mur en France grâce à notre expertise en création d’ouvertures dans les charpentes. Installation de fenêtres, puits de lumière et aménagement de combles avec sécurité et professionnalisme."
+  },
+  "slider": {
+    "title": " Métamorphose Structurale",
+    "desc": "Mur-Mur, Votre Expert en Étude de Mur Porteur",
+    "img": "nos-solutions-creation-douverture-dans-la-charpente-en-france"
+  },
+  "intro": {
+    "title": "Création d’Ouverture dans la Charpente en France",
+    "subTitle": "Transformez votre espace avec Mur-Mur !",
+    "desc": "Chez Mur-Mur, nous nous spécialisons dans la création d’ouvertures dans les charpentes en France. Nous offrons des solutions adaptées pour transformer votre espace de vie, que vous souhaitiez installer une fenêtre, ajouter un puits de lumière ou aménager des combles. Notre expertise assure un travail professionnel, sécurisé et conforme aux normes."
+  },
+  "title": "Avantages de l’Ouverture dans la Charpente : Éclaircissez et Optimisez Votre Espace",
+  "desc": "L’ouverture dans la charpente peut offrir plusieurs avantages essentiels. Voici les principales options que nous proposons :",
+  "installation": {
+    "img": "nos-solutions/installation-de-fenetres",
+    "titleImg": "Installation de Fenêtres",
+    "title": "Installation de Fenêtres dans la Charpente : Maximisez la Lumière et le Confort",
+
+    "list": [
+      {
+        "title": "Augmentez la Lumière Naturelle :",
+        "desc": " Les fenêtres bien positionnées apportent une luminosité accrue à vos combles ou sous-toitures."
+      },
+      {
+        "title": "Améliorez la Vue sur l’Extérieur :",
+        "desc": " Profitez d’une vue dégagée et créez une ambiance plus chaleureuse."
+      },
+      {
+        "title": "Optimisez la Ventilation : ",
+        "desc": " Améliorez la circulation de l’air pour un espace intérieur plus sain."
+      }
+    ]
+  },
+  "creation": {
+    "img": "nos-solutions/creation-de-puits",
+    "titleImg": "Création de Puits de Lumière avec Verrière",
+    "title": "Création de Puits de Lumière avec Verrière : Élégance et Fonctionnalité",
+
+    "list": [
+      {
+        "title": "Design Contemporain avec Verrière : ",
+        "desc": " Ajoutez une touche moderne et élégante à votre intérieur."
+      },
+      {
+        "title": "Maximisation de la Lumière Naturelle :",
+        "desc": " Permettez à la lumière d’envahir vos espaces, rendant les pièces plus agréables."
+      },
+      {
+        "title": "Harmonie entre Intérieur et Extérieur :",
+        "desc": " Créez une séparation esthétique tout en conservant une connexion visuelle."
+      }
+    ]
+  },
+
+  "amenagement": {
+    "img": "nos-solutions/amenagement-des-combles",
+    "titleImg": "Aménagement des Combles",
+    "title": "Aménagement des Combles pour Créer une Pièce Supplémentaire : Valorisez Votre Maison",
+
+    "list": [
+      {
+        "title": "Création d’Espaces Fonctionnels : ",
+        "desc": "Transformez vos combles en chambre, bureau ou salle de jeux."
+      },
+      {
+        "title": "Augmentation de la Valeur Immobilière :",
+        "desc": "  Améliorez le confort et la valeur de votre propriété avec un aménagement réussi."
+      },
+      {
+        "title": "Isolation Efficace :  ",
+        "desc": " Intégrez des solutions d’isolation pour un confort thermique optimal."
+      }
+    ]
+  },
+  "title2": "Étapes Clés pour la Création d’une Ouverture dans la Charpente",
+  "analyse": {
+    "img": "nos-solutions/analyse-initiale-et-evaluation",
+    "titleImg": "Analyse Initiale et Évaluation Personnalisée",
+    "title": "1. Analyse Initiale et Évaluation Personnalisée",
+
+    "list": [
+      {
+        "title": "Évaluation de la Charpente Existante : ",
+        "desc": "Analyse approfondie de la structure de la charpente pour déterminer la faisabilité de l’ouverture."
+      },
+      {
+        "title": "Identification des Contraintes Structurelles : ",
+        "desc": "Détection des contraintes possibles, telles que les éléments porteurs, et planification des renforcements nécessaires."
+      }
+    ]
+  },
+  "conception": {
+    "img": "nos-solutions/conception-sur-mesure",
+    "titleImg": "Conception sur Mesure de l’Ouverture",
+    "title": "2. Conception sur Mesure de l’Ouverture",
+
+    "list": [
+      {
+        "title": "Création de Plans Personnalisés : ",
+        "desc": "Élaboration de plans détaillés pour l’ouverture, en tenant compte des dimensions, du style et des spécifications techniques."
+      },
+      {
+        "title": "Sélection des Matériaux :",
+        "desc": " Choix des matériaux de construction adaptés pour garantir la solidité et l’esthétique de l’ouverture."
+      }
+    ]
+  },
+  "title3": "3. Exécution des Travaux : Mise en Œuvre et Sécurité",
+  "desc3": "Notre équipe met en œuvre les travaux de manière rigoureuse et dans le respect des normes de sécurité en vigueur, tout en assurant un renforcement adéquat si nécessaire.",
+  "finitions": {
+    "img": "nos-solutions/finitions-et-verifications",
+    "titleImg": "Finitions et Vérifications",
+    "title": "4. Finitions et Vérifications",
+
+    "list": [
+      {
+        "title": "Soins aux Détails de Finition : ",
+        "desc": "Réalisation des finitions, y compris l’étanchéité, le calfeutrage et les finitions décoratives pour une intégration harmonieuse de l’ouverture."
+      },
+      {
+        "title": "Inspections et Vérifications :  ",
+        "desc": "Contrôle final pour assurer que l’ouverture est conforme aux plans et respecte les normes de qualité et de sécurité."
+      }
+    ]
+  },
+  "finalisation": {
+    "img": "nos-solutions/finalisation-et-entretien",
+    "titleImg": "Finalisation et Entretien",
+    "title": "5. Finalisation et Entretien",
+
+    "list": [
+      {
+        "title": "Nettoyage et Préparation à l’Utilisation : ",
+        "desc": " Nettoyage du site de construction et préparation de l’espace pour son utilisation immédiate."
+      },
+      {
+        "title": "Conseils d’Entretien : ",
+        "desc": "Fourniture de recommandations pour l’entretien et la maintenance de l’ouverture afin de garantir sa durabilité."
+      }
+    ]
+  },
+  "cardContact": {
+    "title": "Contactez Mur-Mur pour Réaliser Votre Projet d’Ouverture en France",
+    "desc": "Optez pour Mur-Mur pour créer une ouverture dans la charpente de votre maison en France. Notre équipe d’experts est prête à vous guider à chaque étape du projet, en vous offrant des solutions personnalisées pour optimiser et transformer votre espace. Réinventez votre espace dès aujourd’hui ! Contactez Mur-Mur pour discuter de vos projets d’ouverture dans la charpente et découvrez comment nous pouvons réaliser votre vision."
+  }
+}

@@ -1,0 +1,43 @@
+{
+ "metaData": {
+    "title": "Travaux décoration intérieure en IDF - Mur Porteur MUR-MUR Paris",
+    "description": "Coaching travaux mur porteur en IDF et à Paris :MUR-MUR vous assiste pour un projet de travaux sur les lots structurels, de finition et de décoration"
+  }, 
+  "slider": {
+    "title": " MUR-MUR",
+    "desc": "Coaching Adapté, Travaux Optimisés",
+    "img": "nos-solutions-coaching-travaux-mur-porteur"
+  },
+  "intro": {
+    "title": "Optimiser vos travaux grâce à un coaching personnalisé avec MUR-MUR",
+    "desc": "Vous envisagez des travaux chez vous, mais vous ne savez pas par où commencer ni comment vous y prendre ? Faites appel à notre service de coaching travaux avec MUR-MUR ! Nous sommes une équipe de professionnels qualifiés dans le domaine de la rénovation et de la construction, et nous mettons notre expertise à votre disposition pour vous aider à mener à bien votre projet."
+  },
+  "services": {
+    "img": "nos-solutions/accompagnement-personnalise",
+    "titleImg": "Un accompagnement personnalisé",
+    "title": "Un accompagnement personnalisé",
+    "desc": "Notre service de coaching travaux est entièrement personnalisé et adapté à vos besoins spécifiques. Nous commençons par une première rencontre pour comprendre vos attentes et vos contraintes, ainsi que pour évaluer l’état actuel de votre habitation. Nous pouvons également réaliser une étude technique approfondie pour déterminer les travaux nécessaires et les solutions les plus adaptées à votre situation."
+  },
+  "conseils": {
+    "img": "nos-solutions/accompagnement-personnalise2",
+    "titleImg": "Un accompagnement personnalisé",
+    "title": "Un accompagnement personnalisé",
+    "desc": "Notre service de coaching travaux est entièrement personnalisé et adapté à vos besoins spécifiques. Nous commençons par une première rencontre pour comprendre vos attentes et vos contraintes, ainsi que pour évaluer l’état actuel de votre habitation. Nous pouvons également réaliser une étude technique approfondie pour déterminer les travaux nécessaires et les solutions les plus adaptées à votre situation."
+  },
+  "assistance": {
+    "img": "nos-solutions/assistance-administrative",
+    "titleImg": "Une assistance dans les démarches administratives",
+    "title": "Une assistance dans les démarches administratives",
+    "desc": "Le domaine des travaux peut être complexe et fastidieux, avec de nombreuses démarches administratives à réaliser. Pas de panique ! Nous sommes là pour vous aider à remplir les formalités nécessaires, à obtenir les autorisations de travaux, à rédiger les devis et les contrats, etc. Nous sommes à vos côtés pour simplifier toutes les étapes de votre projet."
+  },
+  "gestion": {
+    "img": "nos-solutions/gestion-de-projet-efficace",
+    "titleImg": "Une gestion de projet efficace",
+    "title": "Une gestion de projet efficace",
+    "desc": "Nous assurons une gestion de projet efficace pour que vos travaux se déroulent dans les meilleures conditions. Nous veillons à ce que les délais soient respectés, à ce que les artisans intervenants soient compétents et sérieux, et à ce que la qualité des travaux soit conforme à vos attentes. Nous sommes votre interlocuteur unique et nous coordonnons toutes les actions nécessaires pour garantir la réussite de votre projet."
+  },
+  "cardContact": {
+    "title": "Contactez-nous pour tous vos besoins en ouverture de mur porteur en France",
+    "desc": "Faites confiance à Mur-Mur pour réaliser vos projets de construction et de rénovation en toute sérénité. Contactez-nous dès maintenant pour bénéficier de notre expertise en structure mur porteur en Île-de-France et toute la France."
+  }
+}

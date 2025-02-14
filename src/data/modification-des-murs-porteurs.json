@@ -1,0 +1,98 @@
+{
+  "metaData": {
+    "title": "Modification des Murs Porteurs | Mur-Mur",
+    "description": "Découvrez comment Mur-Mur vous accompagne dans la modification des murs porteurs. Expertise et qualité garanties."
+  },
+  "slider": {
+    "title": " MUR-MUR",
+    "desc": "Changer avec Assurance, Transformer avec Élégance",
+    "img": "nos-expertises-modification-des-murs-porteurs"
+  },
+  "intro": {
+    "title": "Modification des Murs Porteurs : Transformez Votre Espace en Toute Sécurité avec Mur-Mur",
+    "desc": "Nous sommes votre partenaire de confiance pour tous vos projets de modification des murs porteurs, offrant des solutions sur mesure pour transformer votre espace de vie ou de travail selon vos besoins spécifiques. Avec notre expertise approfondie dans la construction et notre équipe qualifiée, nous nous engageons à réaliser des modifications de murs porteurs avec précision et en toute sécurité."
+  },
+  "solutions": {
+    "img": "nos-solutions/mur-porteur",
+    "titleImg": "Qu’est-ce qu’un Mur Porteur ?",
+    "title": "Qu’est-ce qu’un Mur Porteur ?",
+    "desc": "Les murs porteurs sont des éléments structuraux essentiels d’un bâtiment qui supportent la charge verticale de la structure et jouent un rôle crucial dans la stabilité globale du bâtiment. Toute modification apportée à ces murs nécessite une approche professionnelle et une expertise en construction pour garantir que la sécurité et l’intégrité de la structure ne sont pas compromises."
+  },
+  "services": {
+    "img": "nos-solutions/services-de-modification",
+    "titleImg": "Nos Services de Modification des Murs Porteurs",
+    "title": "Nos Services de Modification des Murs Porteurs",
+    "desc": "Chez Mur-Mur, nous comprenons l’importance de chaque projet de modification des murs porteurs et nous travaillons en étroite collaboration avec nos clients pour réaliser leurs visions tout en respectant les normes de sécurité et de construction."
+  },
+  "title": "Nos services de modification de murs porteurs comprennent :",
+  "images": [
+    {
+      "img": "nos-solutions/evaluation-initiale",
+      "titleImg": "Évaluation Initiale",
+      "title": "1. Évaluation Initiale",
+      "desc": "Notre équipe d’experts effectuera une évaluation approfondie de votre bâtiment pour comprendre la structure existante, les contraintes et les possibilités de modification des murs porteurs."
+    },
+    {
+      "img": "nos-solutions/conception-personnalisee",
+      "titleImg": "Conception Personnalisée",
+      "title": "2. Conception Personnalisée",
+      "desc": "Nous collaborons avec vous pour concevoir une modification sur mesure qui répond à vos besoins et objectifs spécifiques, tout en veillant à ce que les aspects structurels et fonctionnels soient pris en compte."
+    },
+    {
+      "img": "nos-solutions/ingenierie-et-calculs",
+      "titleImg": "Ingénierie et Calculs",
+      "title": "3. Ingénierie et Calculs",
+      "desc": "Avant d’entamer les travaux, nos ingénieurs qualifiés effectueront des calculs précis pour garantir la stabilité et la résistance de la structure après la modification."
+    }
+  ],
+  "images2": [
+    {
+      "img": "nos-solutions/demolition-controlee",
+      "titleImg": "Démolition Contrôlée",
+      "title": "4. Démolition Contrôlée",
+      "desc": "Si nécessaire, nous réaliserons une démolition contrôlée des parties de murs porteurs à modifier, en utilisant des techniques avancées pour minimiser les perturbations sur le reste de la structure."
+    },
+    {
+      "img": "nos-solutions/renforcement-structural",
+      "titleImg": "Renforcement Structural",
+      "title": "5. Renforcement Structural",
+      "desc": "Nous mettrons en œuvre des méthodes de renforcement structural avancées pour assurer que les murs modifiés conservent leur intégrité et leur capacité de support."
+    },
+    {
+      "img": "nos-solutions/suivi-rigoureux",
+      "titleImg": "Suivi Rigoureux",
+      "title": "6. Suivi Rigoureux",
+      "desc": "Pendant tout le processus de modification, notre équipe assurera un suivi rigoureux pour garantir que chaque étape est effectuée conformément aux normes de qualité et de sécurité."
+    }
+  ],
+  "title2": "Pourquoi Choisir Mur-Mur pour vos Projets de Modification des Murs Porteurs ?",
+  "service": [
+    {
+      "icon": "expertise-et-rofessionnalisme.webp",
+      "iconHover": "expertise-et-rofessionnalisme.webp",
+      "title": "Expertise et Professionnalisme",
+      "desc": "Nous sommes des experts dans la modification de murs porteurs, et notre équipe possède l’expertise et les compétences nécessaires pour réaliser des projets de toutes tailles et complexités."
+    },
+    {
+      "icon": "securite-avant-tout.webp",
+      "iconHover": "securite-avant-tout.webp",
+      "title": "Sécurité Avant Tout",
+      "desc": "Nous accordons une importance primordiale à la sécurité dans toutes nos activités, en nous assurant que chaque modification est réalisée en respectant les normes de sécurité les plus strictes."
+    },
+    {
+      "icon": "approche-collaborative.webp",
+      "iconHover": "approche-collaborative.webp",
+      "title": "Approche Collaborative",
+      "desc": "Nous travaillons main dans la main avec nos clients, en écoutant attentivement leurs besoins et en les impliquant tout au long du processus de modification."
+    },
+    {
+      "icon": "respect-des-delais-et-budgets.webp",
+      "iconHover": "respect-des-delais-et-budgets.webp",
+      "title": "Respect des Délais et Budgets",
+      "desc": "Nous nous engageons à respecter les délais convenus et à travailler dans les limites de votre budget pour une expérience transparente et sans tracas."
+    }
+  ],
+  "titleContact":"Transformez Votre Espace Aujourd’hui avec Mur-Mur",
+  "desc1":"Si vous envisagez de modifier des murs porteurs dans votre bâtiment, Mur-Mur est là pour vous aider à réaliser votre projet de manière professionnelle et sécurisée. Contactez-nous dès aujourd’hui pour discuter de vos besoins, obtenir un devis personnalisé et commencer à transformer votre espace dès maintenant.",
+  "desc2":"Chez Mur-Mur, nous bâtissons des espaces durables et fonctionnels, un mur à la fois !"
+}
