@@ -41,7 +41,7 @@ export default function CardActualites() {
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://mur-mur.fr/" />
       </Helmet>
-      <div className="w-defaultwidth max-w-mwidth1 m-auto lg:pb-20 lg:pt-7 py-10">
+      <div className="w-defaultwidth max-w-mwidth1 m-auto lg:pt-7 py-10">
         <h1 className="text-orange font-bold mb-10">ACTUALITÉS</h1>
         <div className="pb-8">
           <ul className="flex flex-wrap gap-4">
@@ -67,7 +67,7 @@ export default function CardActualites() {
           </ul>
         </div>
         <div className="">
-          <div className="grid xl:grid-cols-3 md:grid-cols-2 2xl:gap-10 gap-4">
+          <div className="grid xl:grid-cols-3 md:grid-cols-2 2xl:gap-10 md:gap-4 gap-7">
             {paginatedBlogs.map((item, index) => (
               <div className="shadow-xl" key={index + 1}>
                 <Link to={`/actualites-mur-mur/${item.slugCategory}/${item.slugPage}`}>

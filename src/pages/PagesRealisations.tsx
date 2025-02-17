@@ -3,8 +3,16 @@ import dataAvis from "../data/avis.json";
 import { Helmet } from 'react-helmet';
 import data from "../data/realisation-etude-mur-porteur.json";
 import { useParams } from "react-router-dom";
+import {
+  faFacebookF,
+  faInstagram,
+  faLinkedinIn,
+ 
+  faXTwitter,
+} from "@fortawesome/free-brands-svg-icons";
 
-import ImgSidebar from "../components/ImgSidebar/ImgSidebar";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 import AvisBlog from "../components/AvisBlog/AvisBlog";
 import CardAvis from "../components/CardAvis/CardAvis";
 import CardRealisations from "../components/CardRealisations/CardRealisations";
@@ -14,7 +22,10 @@ interface BlogItem {
   slugPageRealisation?: string;
   title?: string;
   user?: string;
+  localisation?: string;
+  surface?: string;
   category?: string;
+  Budget?: string;
   metaData?: {
     title?: string;
     description?: string;
@@ -105,7 +116,7 @@ const Page: React.FC = () => {
               </div>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="grid grid-cols-1  pt-5 lg:grid-cols-3">
               <div className="py-5 col-span-1 sm:col-span-2">
                 {page.listDesc?.map((item, index) => (
                   <div key={index}>
@@ -151,14 +162,84 @@ const Page: React.FC = () => {
                   <CardRealisations />
                 </section>
               </div>
-              <div className="hidden lg:block ps-8">
-                <div className="col-span-1 relative shadow-xl p-8">
-                  <div className="h-full w-[0.5px] absolute left-0"></div>
-                  <div className="lg:max-w-widthCard450 m-auto ml-10">
-                    <div className="mt-10">
+              <div className="block ps-8">
+                <div className="lg:col-span-1 w-full relative shadow-xl p-8">
+              
+                  <div className="lg:max-w-widthCard450 w-full m-auto ">
+                    {/* <div className="mt-10">
                       <ImgSidebar />
+                    </div> */}
+                    <div className="grid grid-cols-4 max-w-40 m-auto">
+                      <div className="bg-orange h-7 w-7 flex rounded-md">
+                                <a
+                        className="m-auto "
+                        href="https://www.facebook.com/entreprise.murmur/"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        <FontAwesomeIcon
+                          className=" text-white h-7 w-3  text-2xl "
+                          icon={faFacebookF}
+                        />
+                      </a>
+                                </div>
+                      <div className="bg-orange h-7 w-7 flex rounded-md">
+                                <a
+                        className="m-auto"
+                        href="https://twitter.com/MM_Mur_Mur"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        <FontAwesomeIcon
+                          className="text-white h-7 w-5 text-2xl"
+                          icon={faXTwitter}
+                        />
+                      </a>
+                      </div>
+                      <div className="bg-orange h-7 w-7 flex rounded-md">
+                        <a
+                        className="m-auto flex"
+                        href="/"
+                        target="_blank"
+                        rel="noreferrer"> 
+                          <FontAwesomeIcon
+                          className="text-white h-5 w-5 m-auto text-2xl"
+                          icon={faLinkedinIn}
+                        />
+                      </a>
+                      </div>
+                      <div className="bg-orange h-7 w-7 flex rounded-md">
+                        <a
+                        className="m-auto flex"
+                        href="/"
+                        target="_blank"
+                        rel="noreferrer"> 
+                          <FontAwesomeIcon
+                          className="text-white h-5 w-5 text-2xl"
+                          icon={faInstagram}
+                        />
+                      </a>
+                      
+                      </div>
+                
+                    </div>
+                    <div className="pt-5">
+                      <p className="font-bold ">Localisation</p>
+                      <p>{page.localisation}</p>
+                      <div className="bg-orange h-[3px] w-full my-7"></div>
+                      <p className="font-bold ">Superficie</p>
+                      <p>{page.surface}</p>
+                      <div className="bg-orange h-[3px] w-full my-7"></div>
+                      <p className="font-bold ">Prix</p>
+                      <p>{page.Budget}</p>
                     </div>
                     <AvisBlog data={dataAvis.avis} />
+                    <div className="flex pb-7">
+                      <a className="underline ms-auto hover:-translate-x-3 duration-150" href="/reviews"> plus d'avis </a>
+                    </div>
+                    <div className="flex">
+                    <a className="cursor-pointer bg-orange m-auto text-white px-5 py-3  "  href="/contactez-mur-mur">Démarrer votre projet</a>
+                    </div>
                   </div>
                 </div>
               </div>

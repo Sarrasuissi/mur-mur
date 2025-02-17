@@ -19,7 +19,7 @@ function page() {
       </Helmet>
       <Slider btn video data={data.slider} />
       <section className="md:pt-24 pt-16 pb-8 w-defaultwidth m-auto max-w-mwidth1">
-        <div className="pb-10">
+        <div className="md:pb-10">
           <CardDesc data={data.intro} />
         </div>
       </section>
@@ -27,7 +27,7 @@ function page() {
         <h2 className="text-orange font-bold pb-10">{data.title}</h2>
         <p>{data.desc}</p>
       </div>
-      <section className="py-16 w-defaultwidth m-auto max-w-mwidth1">
+      <section className="md:py-16 py-7 w-defaultwidth m-auto max-w-mwidth1">
         <CardBigImgDesc
           data={data.installation}
           colorTitle="text-orange"
@@ -39,7 +39,7 @@ function page() {
           // marginDesc="md:my-8"
         />
       </section>
-      <section className="py-16 w-defaultwidth m-auto max-w-mwidth1">
+      <section className="md:py-16 py-7 w-defaultwidth m-auto max-w-mwidth1">
         <CardBigImgDesc
           data={data.creation}
           reverse
@@ -64,10 +64,10 @@ function page() {
           // marginDesc="md:my-8"
         />
       </section>
-      <h2 className="text-orange font-bold pb-10 py-20 w-defaultwidth m-auto max-w-mwidth1">
+      <h2 className="text-orange font-bold md:pb-10 md:py-20 w-defaultwidth m-auto max-w-mwidth1">
         {data.title}
       </h2>
-      <section className="py-16 w-defaultwidth m-auto max-w-mwidth1">
+      <section className="md:py-16 py-7 w-defaultwidth m-auto max-w-mwidth1">
         <CardBigImgDesc
           data={data.analyse}
           reverse
@@ -80,7 +80,7 @@ function page() {
           marginDesc="md:my-20"
         />
       </section>
-      <section className="py-16 w-defaultwidth m-auto max-w-mwidth1">
+      <section className="md:py-16 py-7 w-defaultwidth m-auto max-w-mwidth1">
         <CardBigImgDesc
           data={data.conception}
      
@@ -97,7 +97,7 @@ function page() {
         <h2 className="text-orange font-bold pb-10">{data.title3}</h2>
         <p>{data.desc3}</p>
       </div>
-      <section className="py-16 w-defaultwidth m-auto max-w-mwidth1">
+      <section className="md:py-16 py-7 w-defaultwidth m-auto max-w-mwidth1">
         <CardBigImgDesc
           data={data.finitions}
           reverse
@@ -110,7 +110,7 @@ function page() {
           marginDesc="md:my-20"
         />
       </section>
-      <section className="py-16 w-defaultwidth m-auto max-w-mwidth1">
+      <section className="md:py-16 py-7 w-defaultwidth m-auto max-w-mwidth1">
         <CardBigImgDesc
           data={data.finalisation}
       

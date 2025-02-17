@@ -25,7 +25,7 @@ function CardBigImgDesc(props: {
           alt={props.data.titleImg}
           src={`/assets/images/${props.data.img}.webp`}
           title={props.data.titleImg}
-          className="max-h-full  w-full bg-cover bg-no-repeat bg-center  "
+          className="max-h-full  w-full object-cover  object-center  "
         />
       </div>
 

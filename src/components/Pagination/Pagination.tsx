@@ -27,7 +27,7 @@ const Pagination: React.FC<PaginationProps> = ({
     setFinalNumber(numberPagination);
   }, [changeNumber, numberPagination]);
   return (
-    <nav aria-label="Navigation de page" className="flex justify-center py-5">
+    <nav aria-label="Navigation de page" className="flex justify-center py-10">
       <ul className="flex h-10 -space-x-px text-base">
         <li className="before:hidden">
           <button

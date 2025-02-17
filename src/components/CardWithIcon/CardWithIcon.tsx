@@ -46,7 +46,7 @@ function CardWithIcon(props: {
             <div className="">
               <a href="/Contactez-mur-mur">
                 <div className=" absolute pb-5   group  right-0">
-                  <button className="border-2 border-orange   group-hover:border-transparent  w-[170px] hover:w-[200px] rounded-lg p-3 ">
+                  <button className="border-2 border-orange  duration-150 group-hover:border-transparent  w-[170px] hover:w-[200px] rounded-lg p-3 ">
                     <p className="text-[#FF4C2E] text-[20px] font-meduim ">
                       Contacter-nous
                     </p>

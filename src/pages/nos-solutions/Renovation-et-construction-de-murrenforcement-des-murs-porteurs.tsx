@@ -31,10 +31,10 @@ function page() {
         </div>
       </section>
 
-      <div className="w-defaultwidth m-auto max-w-mwidth1  py-20">
+      <div className="w-defaultwidth m-auto max-w-mwidth1  md:py-20 py-10">
         <CardImagesShadow data={data.images} grid />
       </div>
-      <div className="w-defaultwidth m-auto max-w-mwidth1  py-20">
+      <div className="w-defaultwidth m-auto max-w-mwidth1  md:py-20 py-10">
         <CardImagesShadow data={data.images2} grid />
       </div>
       <h2 className="text-orange font-bold w-defaultwidth m-auto max-w-mwidth1 py-10">
@@ -43,7 +43,7 @@ function page() {
       <div className="py-10">
         <CardHoverIcon data={data.service} hover />
       </div>
-      <section className="py-20 ">
+      <section className="md:py-20 py-10">
         <div className=" shadow-lg bg-[#4F5051] pb-16">
           <CardWithIcon
             data={data.besoin}

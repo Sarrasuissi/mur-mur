@@ -70,7 +70,7 @@ function page() {
             <p>{data.desc1}</p>
             <p className="py-5">{data.desc2}</p>
             <div className="   pb-16 m-auto px-3 ">
-              <button className="border-2 border-orange  hover:bg-lightGray group-hover:border-transparent  relative w-[170px] hover:w-[200px] rounded-sm p-3 ">
+              <button className="border-2 border-orange duration-150  hover:bg-lightGray group-hover:border-transparent  relative w-[170px] hover:w-[200px] rounded-sm p-3 ">
                 <p className="text-[#FF4C2E] text-[20px]  font-meduim ">
                   Contacter-nous
                 </p>

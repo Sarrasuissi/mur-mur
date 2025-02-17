@@ -8,7 +8,7 @@ function SliderWithClipPath(props: {
   };
 }) {
   return (
-    <div className="SliderWithClipPath md:h-[80vh]">
+    <div className="SliderWithClipPath md:h-[80vh] ">
       <div
         className="h-full bg-cover md:flex"
         style={{
@@ -20,12 +20,12 @@ function SliderWithClipPath(props: {
           <img
             alt=""
             title=""
-            className="clipPath h-full object-cover md:block"
+            className="clipPath h-full xl:max-w-full md:max-w-[600px] object-cover md:block"
             src={`/assets/images/slider/${props.data.img}.webp`}
           />
         </div>
         <div className="flex h-full md:translate-x-8 ">
-          <p className="m-auto max-w-[600px] md:-translate-x-4 md:-translate-y-8 px-4 py-20  text-xl font-bold leading-loose text-white lg:text-3xl">
+          <p className="m-auto xl:max-w-[600px] md:max-w-[400px] max-w-[600px]  md:-translate-x-4 md:-translate-y-8 md:pe-7 md:px-0 px-4 md:py-20 py-10  text-xl font-bold leading-loose text-white lg:text-3xl">
             {props.data.title}
           </p>
         </div>

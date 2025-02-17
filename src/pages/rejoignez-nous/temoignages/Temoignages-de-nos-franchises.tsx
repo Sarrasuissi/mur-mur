@@ -22,7 +22,7 @@ function page() {
  </div>))}
 
  </div>
- <CardPlusWithBorder data={data.regions} withoutBorder bgColor="bg-[#c5c4c4]" styleTitle="text-orange" styleDesc="text-white/80" hoverBottom/>
+ <CardPlusWithBorder data={data.regions} withoutBorder bgColor="bg-[#c5c4c4]" styleTitle="text-orange" styleDesc="text-white" hoverBottom/>
  <div className="py-10">
  <CardFormulaire />
  </div>
